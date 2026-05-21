@@ -1,0 +1,8 @@
+product_area_key,product_area_name
+1,analytics_dashboard
+2,api_integration
+3,billing
+4,data_export
+5,login_auth
+6,mobile_app
+7,notifications

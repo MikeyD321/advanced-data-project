@@ -1,0 +1,1048 @@
+customer_id,country,email_address,company_name,customer_name,contact_person,Address_line_1,Address_line_2,Area_code,city
+CUST_00861,Germany,janedoe@example.com,,Jane Doe,,123 Main Street,,10115,Berlin
+CUST_00770,United States,john.doe@example.com,,John Doe,,123 Main St,,10001,New York
+CUST_02559,United Arab Emirates,info@techinnovations.ae,Tech Innovations LLC,,Sara Al-Mansoori,123 Innovation Park,"Building 5, 2nd Floor",02,Abu Dhabi
+CUST_03557,Brazil,rafael.silva@educacao.br,Escola Técnica de São Paulo,,Rafael Silva,"Av. Paulista, 1000",Conjunto 50,11,São Paulo
+CUST_09556,United States,contact@example.com,Tech Innovations LLC,,John Doe,1234 Technology Way,Suite 200,90210,Beverly Hills
+CUST_03844,United States,jane.doe@educationexample.com,Example Education Institute,Jane Doe,John Smith,123 Education St,Suite 100,90210,Beverly Hills
+CUST_01017,Australia,john.doe@educationexample.com,Example Education Institute,John Doe,Jane Smith,123 Education St,Suite 4B,02,Sydney
+CUST_00065,United States,contact@nonprofitorganization.org,Helping Hands Nonprofit,,Jane Doe,123 Charity Lane,Suite 100,202,Washington
+CUST_05893,Australia,info@smallbusiness.com.au,Small Business Solutions,,John Doe,123 Business St,Suite 10,02,Sydney
+CUST_02732,Australia,jane.doe@example.edu.au,ABC University,Jane Doe,John Smith,123 University Rd,Building B,026,Canberra
+CUST_04489,Germany,max.mueller@example.com,,Max Müller,,Berliner Str. 10,2nd Floor,10115,Berlin
+CUST_07575,United States,john.doe@educator.com,Doe Educational Institute,John Doe,Jane Smith,123 Education Blvd,Suite 200,901,Memphis
+CUST_02694,United States,contact@smallbusiness.com,Small Business LLC,,John Doe,123 Business Rd,Suite 100,555,Springfield
+CUST_01307,Brazil,contact@smallbusiness.com.br,Pequena Empresa Ltda,,Maria Silva,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_01999,United Arab Emirates,student123@educationmail.ae,,Amina Al-Farsi,,123 Knowledge Street,Building 5,04,Dubai
+CUST_07555,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Hans Müller,1234 Innovation Park,Building 2A,10115,Berlin
+CUST_05250,Germany,info@nonprofitorganization.de,Non-Profit Organization GmbH,,Maria Schmidt,Musterstraße 10,2. Stock,10115,Berlin
+CUST_07778,Brazil,ana.silva@educatebr.com,Educate Brazil,Ana Silva,Ana Silva,"Rua das Flores, 123",Apto 45,11,São Paulo
+CUST_06547,United Arab Emirates,contact@nonprofitorg.ae,Community Helpers,,Amira Al-Farsi,123 Charity Lane,,971,Dubai
+CUST_08156,Brazil,contact@techinnovators.com,Tech Innovators Ltd.,,Carlos Silva,"Av. Paulista, 1234",Suite 567,11,São Paulo
+CUST_02050,Australia,john.doe@example.com,,John Doe,,123 Sydney Rd,Unit 5B,02,Sydney
+CUST_06296,United Arab Emirates,info@nonprofitorganization.ae,Helping Hands Foundation,,Ahmed Al-Farsi,123 Charity Street,Suite 200,971,Dubai
+CUST_02201,United States,contact@nonprofitorganization.org,Non Profit Organization,,John Doe,123 Charity Lane,,555,San Francisco
+CUST_09493,United States,contact@techinnovations.com,Tech Innovations Inc.,,John Doe,123 Innovation Drive,Suite 400,303,Denver
+CUST_01046,Germany,john.doe@example.com,,John Doe,,1234 Elm Street,,10115,Berlin
+CUST_07997,Brazil,example@education.com,EduTech Solutions,Carlos Silva,Mariana Santos,1234 Avenida Paulista,Suite 567,11,São Paulo
+CUST_01061,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,Carlos Silva,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_03395,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Anna Schmidt,Musterstraße 123,,10115,Berlin
+CUST_07807,United States,john.doe@example.com,,John Doe,,123 Main St,,90210,Beverly Hills
+CUST_08717,United States,john.doe@example.com,,John Doe,,123 Main St,,94103,San Francisco
+CUST_06615,Germany,info@charity.org,Helping Hands Charity,,Anna Müller,123 Charity Street,,10115,Berlin
+CUST_07510,Germany,info@nonprofitorg.de,NonProfit Org GmbH,,Anna Müller,Bergstraße 12,2nd Floor,10115,Berlin
+CUST_05223,Brazil,johndoe@example.com,,John Doe,,123 Avenida Paulista,Apto 456,11,São Paulo
+CUST_01694,Australia,jane.doe@university.edu.au,National University of Australia,Jane Doe,Jane Doe,123 College Road,"Building A, Room 5",02,Canberra
+CUST_07561,Germany,max.mustermann@example.com,,Max Mustermann,,Musterstraße 1,2. Obergeschoss,10115,Berlin
+CUST_03344,Brazil,maria.silva@school.edu.br,Escola Educativa,Maria Silva,José Almeida,"Rua das Flores, 123",Sala 45,11,São Paulo
+CUST_09436,Germany,info@nonprofitorg.de,Nonprofit Organization Germany,,Anna Müller,Musterstraße 12,2. Stock,10115,Berlin
+CUST_07422,Germany,anna.meyer@example.com,Meyer Educational Services,,Anna Meyer,Berliner Str. 45,2nd Floor,10117,Berlin
+CUST_09824,Brazil,jose.silva@educator.com,Educa Brasil,José Silva,Maria Fernandes,123 Avenida Paulista,Suite 45,11,São Paulo
+CUST_06834,United States,info@nonprofitorganization.org,Nonprofit Organization,,Jane Doe,123 Charity Ave,Suite 100,303,Denver
+CUST_04381,Egypt,info@nonprofit-org.eg,Helping Hands Foundation,,Ahmed El-Sayed,123 Charity Avenue,,02,Cairo
+CUST_09818,United States,johndoe@example.com,,John Doe,,123 Education St,,123,Springfield
+CUST_07165,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,Maria Silva,"Rua dos Flamboyants, 123",Sala 45,11,São Paulo
+CUST_09880,Brazil,john.doe@example.com,,John Doe,,123 Rua da Paz,Apt 45B,11,São Paulo
+CUST_00729,Australia,contact@nonprofit.org.au,Helping Hands Charity,,Sarah Johnson,123 Charity Lane,Suite 4B,02,Sydney
+CUST_04947,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,Maria Silva,"Rua da Alegria, 123",Sala 5B,11,São Paulo
+CUST_01063,United States,info@techinnovations.com,Tech Innovations LLC,,John Doe,123 Innovation Drive,Suite 200,60606,Chicago
+CUST_07242,United States,johndoe@example.com,,John Doe,,123 Maple Street,,90210,Beverly Hills
+CUST_05542,Australia,contact@smallbusiness.com.au,Small Business Solutions Pty Ltd,,John Doe,123 Business Rd,Suite 4B,02,Sydney
+CUST_03487,Germany,contact@nonprofitorg.de,Non-Profit Organization Germany,,Anna Müller,Musterstraße 12,2. Stock,10115,Berlin
+CUST_09274,United Arab Emirates,contact@techsolutions.ae,Tech Solutions LLC,,Ahmed Al-Mansoori,123 Innovation Drive,Suite 45B,04,Dubai
+CUST_00824,Australia,contact@smallbusiness.com.au,Small Business Solutions,,James Smith,123 Business Rd,Suite 4B,02,Sydney
+CUST_09443,United States,john.doe@example.com,,John Doe,,123 Main Street,,90210,Beverly Hills
+CUST_02704,United Arab Emirates,contact@techsolutions.ae,Tech Solutions LLC,,Ali Hassan,123 Innovation Road,Suite 45B,971,Dubai
+CUST_03720,United Arab Emirates,ahmed.alhassan@educationuae.com,Education UAE,Ahmed Al Hassan,Fatima Zayed,123 Learning Street,Suite 456,971,Dubai
+CUST_02780,United States,johndoe@example.com,,John Doe,,123 Main St,,90210,Beverly Hills
+CUST_02872,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Johannes Müller,Hauptstraße 15,2nd Floor,10117,Berlin
+CUST_03926,Germany,john.doe@example.com,,John Doe,,1234 Maple Street,,10115,Berlin
+CUST_09861,Brazil,contact@smallbusiness.com,Small Biz Solutions,,Maria Silva,"Rua das Flores, 123",Sala 456,11,São Paulo
+CUST_04781,Brazil,contact@examplebusiness.com,Example Business Ltd.,,Maria Silva,1234 Main St,Suite 100,11,São Paulo
+CUST_00771,Germany,info@smallbusinessgmbh.de,Small Business GmbH,,Hans Müller,Musterstraße 12,2nd Floor,10115,Berlin
+CUST_06997,Australia,contact@smallbiz.com.au,Small Biz Solutions,,Alice Johnson,15 Innovation Drive,Suite 2B,02,Sydney
+CUST_01332,Australia,john.doe@example.com,,John Doe,,123 Elm Street,,02,Sydney
+CUST_02833,United States,john.doe@example.com,,John Doe,,123 Main St,,90210,Beverly Hills
+CUST_07351,Brazil,john.doe@example.com,,John Doe,,123 Avenida Paulista,,11,São Paulo
+CUST_06778,Australia,info@nonprofitorg.au,NonProfit Organization,,John Doe,123 Charity St,,02,Sydney
+CUST_09946,United States,john.doe@example.com,,John Doe,,1234 Elm Street,,90210,Beverly Hills
+CUST_01277,United Arab Emirates,contact@enterprisecompany.ae,Enterprise Solutions LLC,,Ahmed Al-Mansoori,123 Business Bay,Office 450,00971,Dubai
+CUST_05127,United Arab Emirates,contact@techinnovations.ae,Tech Innovations LLC,,Amir Al-Farsi,123 Innovation Road,Suite 1001,04,Dubai
+CUST_08906,United Arab Emirates,contact@smallbusinessme.ae,Small Business ME,,Ahmad Al-Farsi,123 Business Bay,Office 456,04,Dubai
+CUST_06372,Germany,contact@nonprofitorg.de,NonProfit Organization,,Anna Müller,Musterstraße 10,2. Obergeschoss,10115,Berlin
+CUST_00877,Brazil,maria.silva@educationbr.com,Educação Brasil,Maria Silva,Maria Silva,"Av. Paulista, 1000",Sala 101,11,São Paulo
+CUST_03736,Australia,contact@smallbusiness.com.au,Small Business Co.,,John Doe,123 Business St,Suite 200,02,Sydney
+CUST_08196,Germany,info@nonprofitgermany.org,Nonprofit Germany,,Johann Schmidt,Berliner Str. 45,,10115,Berlin
+CUST_06470,United Arab Emirates,contact@smallbusinessuae.com,Small Business UAE,,Ahmed Al-Farsi,123 Business Bay,"Office 45, 2nd Floor",04,Dubai
+CUST_06989,Brazil,jose.silva@email.com,,José Silva,,"Rua das Flores, 123",Apt 45,11,São Paulo
+CUST_01620,Germany,anna.meyer@example.com,Scholars Academy,,Anna Meyer,Brunnenstraße 10,Suite 3B,10115,Berlin
+CUST_00236,United States,info@smallbusiness.com,Small Business Co.,,John Doe,123 Business St,Suite 100,901,Memphis
+CUST_09065,United Arab Emirates,customer.education@example.com,Knowledge Academy,,Sara Ali,123 Education St.,Suite 456,971,Dubai
+CUST_09511,Brazil,contact@nonprofitorg.bra,NonProfit Org,,Maria Silva,"Rua das Flores, 123",Suite 456,11,São Paulo
+CUST_03688,Germany,contact@nonprofitorg.de,Helping Hands Foundation,,Anna Müller,Berliner Str. 22,Suite 3B,10115,Berlin
+CUST_08670,United States,contact@techinnovations.com,Tech Innovations LLC,,John Doe,123 Innovation Drive,Suite 100,90210,Beverly Hills
+CUST_01866,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Doe,123 Tech Drive,Suite 400,303,Denver
+CUST_02892,Germany,contact@smallbusinessgmbh.de,Small Business GmbH,,Max Müller,Friedrichstrasse 123,Suite 5A,10117,Berlin
+CUST_06167,Brazil,jose.silva@example.com,,Jose Silva,,"Rua das Flores, 123",Apto 45,11,São Paulo
+CUST_04452,United States,john.doe@example.com,,John Doe,,123 Maple Street,,90210,Beverly Hills
+CUST_03369,Brazil,contact@nonprofitbrazil.org,Non Profit Brazil,,Maria Silva,"Rua das Flores, 123",Apt 45,11,São Paulo
+CUST_06515,Australia,jane.smith@university.edu.au,Smith University,,Jane Smith,123 Academic St,"Building B, Room 456",02,Sydney
+CUST_00537,Germany,julia.schmidt@email.com,LearnTech Academy,,Julia Schmidt,123 Education St.,Suite 5B,10115,Berlin
+CUST_01991,United Arab Emirates,john.doe@educationuae.com,Education UAE,John Doe,Jane Smith,123 Learning Lane,"Building B, Office 45",971,Dubai
+CUST_00967,Germany,johndoe@example.com,,John Doe,,123 Main St,,10115,Berlin
+CUST_02483,Australia,jane.doe@example.com,,Jane Doe,,123 Main Street,Unit 5,02,Sydney
+CUST_06646,Brazil,contact@techsolutions.com.br,Tech Solutions Ltd.,,Carlos Silva,"Avenida Paulista, 200",Suite 1500,11,São Paulo
+CUST_06306,United States,john.doe@example.com,,John Doe,,123 Main St,Apt 4B,10001,New York
+CUST_08520,Germany,max.mueller@example.com,,Max Müller,,Friedrichstraße 15,Apartment 3A,10117,Berlin
+CUST_02539,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,Maria Silva,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_04243,United States,contact@enterprisecompany.com,Enterprise Company,,John Doe,1234 Business Rd,Suite 567,90210,Beverly Hills
+CUST_04567,United States,contact@nonprofitorganization.org,Non Profit Organization,,John Doe,123 Charity Lane,,212,New York
+CUST_02680,United States,contact@nonprofitorganization.org,Nonprofit Organization,,Jane Doe,123 Charity Lane,,555,Springfield
+CUST_01302,United States,info@nonprofitorg.org,Non-Profit Organization,,John Doe,123 Charity Lane,Suite 100,123,Springfield
+CUST_08233,Brazil,contact@nonprofitbra.org,Non Profit Brazil,,Fernanda Silva,"Rua da Solidariedade, 123",Centro,11,São Paulo
+CUST_04264,United Arab Emirates,contact@enterpriseexample.com,Enterprise Solutions LLC,,Ahmed Al-Farsi,123 Business Bay,Office 456,04,Dubai
+CUST_05942,United Arab Emirates,contact@techsolutions.ae,Tech Solutions LLC,,Ahmed Al-Farsi,123 Innovation Way,Suite 456,02,Abu Dhabi
+CUST_07102,Brazil,contact@smallbusiness.com.br,Small Business Solutions Ltda,,Fernanda Souza,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_01640,Australia,contact@enterprisecompany.com.au,Enterprise Company,,John Doe,123 Business Rd,Suite 456,02,Sydney
+CUST_04091,United Arab Emirates,contact@techsolutions.ae,Tech Solutions LLC,,Ahmed Al-Farsi,123 Innovation Drive,Suite 45B,04,Dubai
+CUST_05605,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Max Müller,1234 Innovation Street,Suite 500,10115,Berlin
+CUST_04807,Germany,anna.schmidt@educationexample.com,German Education Institute,,Anna Schmidt,123 Learning Street,Suite 456,10178,Berlin
+CUST_01501,United Arab Emirates,info@alnooracademy.ae,Al Noor Academy,,Fatima Al-Mansoori,123 Education St,"Building 4, Suite 10",971,Dubai
+CUST_07981,Singapore,contact@enterprisecompany.sg,Enterprise Company Pte Ltd,,John Tan,123 Business Rd,Unit 456,639,Singapore
+CUST_08685,Australia,contact@enterprisecompany.com.au,Enterprise Company,,John Doe,123 Business Rd,Suite 45,02,Sydney
+CUST_03811,Brazil,jose.silva@example.com,,José Silva,,"Rua do Sol, 123",Apartment 45B,11,São Paulo
+CUST_09455,Australia,contact@techfirm.com.au,Tech Innovations Pty Ltd,,Alice Johnson,27 Innovation Way,Suite 5B,02,Sydney
+CUST_02034,Germany,info@smallbusinessgermany.de,Kleinunternehmen GmbH,,Hans Müller,Musterstraße 12,2. Stock,10115,Berlin
+CUST_01829,Brazil,contact@enterprise-solutions.com,Enterprise Solutions Ltd.,,Carlos Silva,"Avenida Paulista, 1000",Suite 200,11,São Paulo
+CUST_05691,Brazil,pedro.silva@example.com,,Pedro Silva,,"Avenida Paulista, 1000",,11,São Paulo
+CUST_06403,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Smith,1234 Innovation Drive,Suite 500,901,Memphis
+CUST_09042,United Arab Emirates,jane.doe@educationuae.com,Education United,,Jane Doe,123 Knowledge Street,,04,Dubai
+CUST_01381,United Arab Emirates,contact@enterprisecompany.ae,Enterprise Company LLC,,Ahmed Al-Farsi,123 Business Bay,Suite 456,04,Dubai
+CUST_09611,Australia,contact@nonprofitorg.org.au,Nonprofit Organization,,Jane Doe,123 Charity Lane,Suite 4B,02,Sydney
+CUST_04037,Germany,info@nonprofitorg.de,Nonprofit Organization,,Johanna Schmidt,Musterstraße 12,2. OG,10115,Berlin
+CUST_01313,Germany,info@smallbusinessgmbh.de,Small Business GmbH,,,Musterstraße 12,2. Etage,10115,Berlin
+CUST_04287,United Arab Emirates,contact@nonprofitorg.ae,Nonprofit Organization,,Ahmed Al-Mansoori,123 Charity Street,Suite 4B,02,Abu Dhabi
+CUST_06507,Brazil,jose.martinez@example.com,EduTech Solutions,José Martinez,José Martinez,"Av. Paulista, 1000",Suite 200,11,São Paulo
+CUST_01137,UAE,ahmed.smith@email.com,,Ahmed Smith,,123 Al Razi Street,,02,Abu Dhabi
+CUST_05353,Germany,info@smallbusiness.de,Tech Innovations GmbH,,Max Müller,Industriestraße 5,2nd Floor,10115,Berlin
+CUST_07492,Brazil,contact@empresabrazileira.com,Empresa Brasileira Ltda,,Carlos Silva,"Avenida Paulista, 1578",Suite 1002,11,São Paulo
+CUST_08477,United Arab Emirates,contact@enterprisecompany.ae,Enterprise Solutions LLC,,Ahmed Al-Farsi,123 Business Bay,Suite 456,04,Dubai
+CUST_09646,United States,johndoe@example.com,,John Doe,,123 Main St,,90210,Beverly Hills
+CUST_03156,United Arab Emirates,john.doe@example.com,,John Doe,,123 Main Street,,04,Dubai
+CUST_01683,United Arab Emirates,john.smith@example.com,,John Smith,,1234 Elm Street,,04,Dubai
+CUST_05391,Australia,john.doe@example.edu.au,Greenwood High School,,John Doe,123 Education Ave,Building B,02,Sydney
+CUST_00960,Brazil,contact@techsolutions.com.br,Tech Solutions Ltda,,Lucas Ribeiro,"Avenida Paulista, 1000",Suite 200,11,São Paulo
+CUST_01764,Australia,contact@techsolutions.com.au,Tech Solutions Pty Ltd,,Emma Johnson,123 Innovation Drive,Suite 456,02,Sydney
+CUST_04168,UAE,contact@techsolutions.ae,Tech Solutions LLC,,Ahmed Al-Farsi,123 Innovation Street,Suite 456,971,Dubai
+CUST_00779,United Arab Emirates,jane.doe@university.edu,Future Learning Institute,Jane Doe,John Smith,123 Knowledge Way,"Building B, Floor 3",04,Dubai
+CUST_02721,United Arab Emirates,info@educationuae.com,Education UAE,Ahmed Al-Farsi,Fatima Al-Mansoori,123 Sheikh Zayed Road,Suite 456,971,Dubai
+CUST_07834,United Arab Emirates,info@smallbusinessuae.com,Small Business UAE,,Ali Al-Mansoori,456 Business Bay,Office 12B,971,Dubai
+CUST_06091,United States,info@smallbusiness.com,Small Business Solutions Inc.,,John Doe,123 Main St,Suite 100,123,Newtown
+CUST_03390,Brazil,contact@smallbizsolution.com,Small Biz Solutions,,Ana Silva,123 Avenida Paulista,Suite 456,11,São Paulo
+CUST_07868,Brazil,contact@techsolutions.com.br,Tech Solutions Ltda,,Carlos Oliveira,"Avenida Paulista, 1578",Suite 210,11,São Paulo
+CUST_08942,United Arab Emirates,contact@smallbusinessuae.com,Small Business UAE,,Ahmed Al-Farsi,123 Business Bay,,04,Dubai
+CUST_08504,Australia,info@charityaustralia.org,Charity Australia,,Sarah Johnson,123 Helping Hands Ave,Suite 4B,02,Sydney
+CUST_00159,Egypt,contact@nonprofitorg.org,Non Profit Organization,,Amina Hassan,123 Charity St.,Suite 4B,202,Cairo
+CUST_09466,Brazil,info@nonprofitbrazil.org,Non Profit Brazil,,Maria Silva,"Av. Paulista, 1000",,+55 11,São Paulo
+CUST_03715,Germany,contact@companyx.de,Company X GmbH,,Max Müller,Example Str. 14,"Building A, 3rd Floor",10117,Berlin
+CUST_00375,Australia,contact@smallbusiness.com.au,Small Business Solutions,,John Doe,123 Business St,Suite 4B,02,Sydney
+CUST_03217,Germany,john.doe@university.edu,University of Berlin,John Doe,,123 Academic St,Campus Area,10115,Berlin
+CUST_03467,United Arab Emirates,contact@nonprofituae.org,Nonprofit Organization UAE,,Fatima Al-Mansoori,123 Charity Drive,Suite 456,971,Dubai
+CUST_06657,United States,jane.doe@example.com,Greenwood High School,,Jane Doe,123 Elm St,Suite 4B,123,Springfield
+CUST_02204,Australia,john.doe@university.edu.au,National University,John Doe,Jane Smith,123 University Ave,Suite 456,02,Sydney
+CUST_06263,United Arab Emirates,contact@nonprofit.org,Helping Hands Charity,,Amina Al-Farsi,123 Charity Lane,Suite 5B,04,Dubai
+CUST_05371,Brazil,johndoe@example.com,,John Doe,,"Rua das Flores, 123",,11,São Paulo
+CUST_06528,United States,johndoe@example.com,,John Doe,,123 Main St,Apt 4B,10001,New York
+CUST_04613,Australia,johndoe@example.com,,John Doe,,123 Elm Street,,02,Sydney
+CUST_08126,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,Carlos Silva,"Rua das Flores, 123",Sala 45B,11,São Paulo
+CUST_09540,Brazil,contact@nonprofitexample.org,NonProfit Example Organization,,Maria Silva,"Av. Paulista, 1234",Suite 567,11,São Paulo
+CUST_01368,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Johann Schmidt,1234 Innovation Way,Suite 56,10115,Berlin
+CUST_08928,Australia,jane.doe@example.com,,Jane Doe,,123 Elm Street,,02,Sydney
+CUST_06472,Germany,anna.klein@example.com,Berlin School of Technology,,Anna Klein,123 Tech Street,Suite 45,10115,Berlin
+CUST_09136,United States,john.smith@educationexample.com,Springfield High School,,John Smith,123 Education Dr,Suite 100,555,Springfield
+CUST_08907,Australia,john.doe@example.edu.au,Greenwood High School,John Doe,Jane Smith,123 School Lane,Building B,02,Sydney
+CUST_03611,United Arab Emirates,contact@smallbusinessuae.com,Small Business UAE,,Ahmed Al-Farsi,123 Business Bay,Office 456,04,Dubai
+CUST_01287,Australia,contact@techinnovations.com.au,Tech Innovations Pty Ltd,,Emma Johnson,123 Technology Way,Suite 200,02,Sydney
+CUST_05204,United States,john.doe@educationsystem.org,Education System Inc.,,John Doe,123 Education Lane,Suite 200,202,Washington
+CUST_03098,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Hans Müller,123 Tech Park,Suite 5B,10117,Berlin
+CUST_06675,Brazil,contact@nonprofit.org.br,Hope for All,,Maria Silva,123 Charity St,Suite 456,11,São Paulo
+CUST_00631,Germany,contact@enterprise-example.com,Enterprise Solutions GmbH,,Hans Müller,123 Business Park,Suite 45,10115,Berlin
+CUST_06653,United States,contact@smallbusiness.com,Small Business LLC,,John Doe,123 Elm Street,,123,Springfield
+CUST_06603,United Arab Emirates,contact@enterprise-example.com,Enterprise Solutions LLC,,Ahmed Al-Farsi,123 Business Bay,Suite 456,971,Dubai
+CUST_07844,United Arab Emirates,jane.doe@school.edu.ae,ABC International School,,Jane Doe,123 Education Lane,Building 4,02,Abu Dhabi
+CUST_02476,Brazil,contact@nonprofit.org.br,Helping Hands Organization,,Maria Silva,"Av. Paulista, 1578",Suite 101,11,São Paulo
+CUST_02818,Singapore,contact@techgiant.com,Tech Giant Pte Ltd,,Alice Tan,123 Innovation Road,Suite 10B,639,Singapore
+CUST_09209,Brazil,example.educator@edu.br,Educational Institute of Brazil,Maria Silva,Dr. Carlos Mendes,123 Avenue of Education,Suite 456,11,São Paulo
+CUST_07447,Brazil,jose.silva@email.com,Instituto de Ensino Superior,,José Silva,"Av. Paulista, 1234",Centro,11,São Paulo
+CUST_07122,Australia,jane.doe@example.com,,Jane Doe,,123 Main St,Apt 4B,02,Sydney
+CUST_09794,Australia,info@smallbusiness.com.au,Small Business Solutions,,John Doe,123 Business St,Suite 2B,02,Sydney
+CUST_08454,United States,contact@nonprofitorg.com,Nonprofit Organization,,John Doe,123 Charity Lane,Suite 100,202,Washington
+CUST_07630,United States,john.doe@educationexample.com,Education Solutions Inc.,John Doe,Jane Smith,1234 Elm St,Suite 567,90210,Beverly Hills
+CUST_06098,United States,john.doe@example.com,,John Doe,,123 Elm St,,90210,Beverly Hills
+CUST_02531,Germany,info@save-the-planet.org,Save the Planet Organization,,Anna Müller,Berliner Straße 45,,10115,Berlin
+CUST_07180,Australia,contact@nonprofit-org.org.au,Non-Profit Organisation,,Jane Doe,123 Charity Street,Suite 2B,02,Sydney
+CUST_05180,Australia,contact@smallbusiness.com.au,Small Business Co.,,John Doe,123 Business Rd,Suite 456,02,Sydney
+CUST_05176,United States,contact@smallbizexample.com,Small Biz Example Co.,,Jane Doe,123 Business Rd,Suite 100,90210,Beverly Hills
+CUST_01639,Brazil,contact@smallbiz.com,Small Biz Co.,,Fernanda Oliveira,"Rua das Flores, 123",Apto 45,11,São Paulo
+CUST_07871,Germany,janeklein@university.edu,Example University,Jane Klein,Dr. Mark Schmidt,Humboldtstraße 24,"Block 3, Room 102",10178,Berlin
+CUST_07899,United States,contact@nonprofitorg.org,Nonprofit Organization,,John Doe,123 Charity Lane,Suite 200,303,Denver
+CUST_02386,United States,jane.doe@educationuniverse.edu,Education Universe,Jane Doe,Jane Doe,1234 Learning Lane,Suite 100,202,Washington
+CUST_05828,Australia,john.smith@example.com,,John Smith,,123 Main St,,02,Sydney
+CUST_02673,Egypt,contact@nonprofit.org.eg,Helping Hands Foundation,,Sara Ahmed,123 Charity Street,,202,Cairo
+CUST_02280,UAE,contact@techinnovations.ae,Tech Innovations LLC,,Ahmed Al-Farsi,123 Innovation Dr.,Suite 202,971,Dubai
+CUST_07084,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,Maria Silva,"Av. Paulista, 1000",Suite 200,11,São Paulo
+CUST_00148,Australia,john.doe@example.edu.au,University of Sydney,John Doe,Jane Smith,200 Wilcox St,,02,Sydney
+CUST_08965,United States,contact@globaltechsolutions.com,Global Tech Solutions,,Jane Doe,1234 Innovation Drive,Suite 100,303,Denver
+CUST_03010,United States,john.doe@example.com,,John Doe,,1234 Elm Street,,123,Springfield
+CUST_08562,Brazil,contact@nonprofit.org.br,Helping Hands NGO,,Maria Silva,Rua das Flores 123,"Apt 45, Bairro Jardim",11,São Paulo
+CUST_08715,Australia,contact@enterprise-example.com,Enterprise Solutions Pty Ltd,,John Smith,123 Innovation Lane,Suite 456,02,Sydney
+CUST_02462,Germany,contact@techindustries.de,Tech Industries GmbH,,Anna Schmidt,1234 Innovation Park,Suite 500,10115,Berlin
+CUST_01257,United Arab Emirates,john.doe@example.com,,John Doe,,1234 Elm Street,,971,Dubai
+CUST_08854,United States,info@smallbusiness.com,Small Business Co.,,John Doe,123 Business Rd,Suite 100,123,Business City
+CUST_04184,United States,contact@smallbusiness.com,Small Business Solutions,,John Doe,1234 Elm St,Suite 567,303,Denver
+CUST_09497,United States,info@smallbusiness.com,Small Business Co.,,John Doe,123 Business Park,Suite 456,303,Denver
+CUST_05344,Australia,john.doe@example.com,,John Doe,,123 Maple Street,Apt 4B,02,Sydney
+CUST_02980,United States,contact@smallbusiness.com,Small Business Inc.,,John Doe,123 Business Rd,Suite 100,555,Springfield
+CUST_05190,Australia,john.doe@example.com,,John Doe,,123 Main St,Apartment 4B,02,Sydney
+CUST_02024,Germany,john.doe@example.com,Berlin University,John Doe,Dr. Emily Smith,123 University Ave,Campus Area,10115,Berlin
+CUST_03587,United Arab Emirates,contact@nonprofitorganization.ae,Helping Hands Charity,,Fatima Al Zahir,123 Charity Way,Suite 5B,971,Dubai
+CUST_03391,Brazil,john.doe@example.com,EduTech Solutions,John Doe,Julia Smith,1234 Education Avenue,Suite 100,11,São Paulo
+CUST_05470,Germany,info@nonprofitorganization.de,Non Profit Organization GmbH,,Anna Müller,Berliner Straße 10,2nd Floor,10115,Berlin
+CUST_01284,Brazil,contact@enterprisecompany.com,Enterprise Company Ltd.,,Lucas Silva,"Av. Paulista, 1000",Suite 501,11,São Paulo
+CUST_05625,Singapore,info@smallbusiness.sg,Small Business Solutions Pte Ltd,,John Tan,123 Business St,Unit 45B,65,Singapore
+CUST_01450,Brazil,maria.silva@email.com,,Maria Silva,,"Rua das Flores, 123",Apto 45,11,São Paulo
+CUST_07711,United Arab Emirates,contact@enterprisecompany.ae,Enterprise Solutions LLC,,John Doe,123 Business Bay,Suite 456,04,Dubai
+CUST_00632,Brazil,maria.silva@example.com,Escola de Línguas da Maria,,Maria Silva,"Av. Brasil, 1234",Centro,11,São Paulo
+CUST_02644,Australia,contact@nonprofit.org.au,Helping Hands Non-Profit,,Emily Carter,123 Charity St,Suite 4B,02,Sydney
+CUST_01172,United States,contact@smallbusiness.com,Small Business Inc.,,John Doe,123 Business Rd,Suite 100,123,Sample City
+CUST_03671,Germany,contact@nonprofitorg.eu,Helping Hands Foundation,,Anna Müller,123 Charity Street,Suite 456,10115,Berlin
+CUST_06634,Germany,john.doe@example.com,,John Doe,,123 Main Street,,10115,Berlin
+CUST_01634,United Arab Emirates,john.doe@example.com,,John Doe,,1234 Elm Street,Apartment 56,04,Dubai
+CUST_03751,Germany,julia.smith@university.edu,University of Berlin,Julia Smith,Dr. Max Müller,123 Academic St,Campus West,10115,Berlin
+CUST_02325,Australia,james.smith@university.edu.au,University of Melbourne,James Smith,James Smith,123 College St,Suite 456,03,Melbourne
+CUST_00782,Brazil,contact@localcharity.org,Local Charity Organization,,Maria Santos,"Rua da Esperança, 123",Apt 45,11,São Paulo
+CUST_01578,United Arab Emirates,john.doe@example.com,,John Doe,,1234 Palm Street,,971,Dubai
+CUST_00008,United States,contact@nonprofitorg.org,Helping Hands Foundation,,Jane Doe,123 Charity Ln,Suite 100,123,Springfield
+CUST_03526,Brazil,joao.silva@example.com,Escola Luminosa,João Silva,Maria Oliveira,"Avenida Paulista, 1234",Suite 567,11,São Paulo
+CUST_05111,United States,contact@nonprofitorganization.org,Non-Profit Organization,,Jane Doe,456 Charity St,Suite 200,212,New York
+CUST_07184,Brazil,contact@nonprofit.org.br,Caminho da Luz,,Maria Silva,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_08005,Australia,contact@nonprofitorg.au,Non Profit Organization,,John Smith,123 Charity Street,,02,Sydney
+CUST_00646,United States,jane.doe@university.edu,University of Learning,Jane Doe,,123 Academic Way,"Building A, Room 101",94103,San Francisco
+CUST_09178,Australia,contact@techsolutions.com.au,Tech Solutions Pty Ltd,,Sarah Johnson,123 Innovation Drive,Suite 4B,02,Sydney
+CUST_07097,United Arab Emirates,contact@enterprisecompany.ae,Enterprise Company LLC,,Ahmed Al-Farsi,123 Business Bay,Suite 45,04,Dubai
+CUST_01090,United States,info@smallbusiness.com,Small Business Solutions,,Alice Johnson,123 Business Rd.,Suite 100,303,Denver
+CUST_09795,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Doe,1234 Innovation Drive,Suite 100,94043,Mountain View
+CUST_04647,Germany,info@university-excellence.de,University of Excellence,,Dr. Anna Schmidt,Musterstraße 12,"Building A, Room 101",10115,Berlin
+CUST_06702,Germany,info@smallbusinessgermany.de,Kleinunternehmer GmbH,,Hans Müller,Musterstraße 123,Office 4B,10115,Berlin
+CUST_04250,United Arab Emirates,info@smallbusinessuae.com,Small Business UAE,,Fatima Al-Mansoori,1234 Innovation Drive,Suite 567,9714,Dubai
+CUST_07231,Germany,john.doe@example.com,,John Doe,,123 Main St,Apt 4B,10115,Berlin
+CUST_00286,United States,contact@smallbusiness.com,Small Business Corp,,John Doe,123 Business Rd,Suite 456,303,Denver
+CUST_08260,Australia,john.doe@educationaustralia.edu.au,Education Australia,John Doe,Jane Smith,123 Educational St,Suite 4B,02,Sydney
+CUST_09886,Germany,info@university-berlin.de,University of Berlin,,Dr. Anna Müller,Hardenbergstraße 34,Room 101,10115,Berlin
+CUST_07157,United Arab Emirates,contact@techsolutionsuae.com,Tech Solutions LLC,,Ahmed Al Farsi,123 Innovation Blvd,Suite 5B,04,Dubai
+CUST_06318,Australia,contact@nonprofit.org.au,Non-Profit Organization,,Alice Johnson,123 Charity St,Suite 10,02,Sydney
+CUST_01479,United Arab Emirates,ali.example@email.com,,Ali Ahmad,,123 Sheikh Zayed Road,,04,Dubai
+CUST_09985,United Arab Emirates,ahmed.smith@example.com,,Ahmed Smith,,123 Desert Road,,971,Dubai
+CUST_09837,United States,contact@smallbusiness.com,Small Business LLC,,John Doe,1234 Elm Street,Suite 100,555,Springfield
+CUST_04977,United States,john.smith@educationexample.com,Example University,John Smith,Jane Doe,1234 Elm Street,Suite 200,303,Denver
+CUST_06377,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Max Müller,Friedrichstraße 123,Suite 456,10117,Berlin
+CUST_01518,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,Carlos Silva,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_06589,Germany,info@school-berlin.de,Berlin International School,,Anna Schmidt,1234 School Lane,Main Campus,10115,Berlin
+CUST_05807,Germany,info@techsolutions.de,Tech Solutions GmbH,,Hans Müller,Schillerstraße 12,,10115,Berlin
+CUST_03809,Brazil,contact@brasiltechsolutions.com,Brasil Tech Solutions,,Ana Silva,"Avenida São João, 1000",Centro,11,São Paulo
+CUST_09102,United States,john.doe@example.com,,John Doe,,123 Elm Street,,90210,Beverly Hills
+CUST_06440,United States,info@nonprofitorganization.org,Non-Profit Organization,,Jane Doe,123 Charity Ln,Suite 100,202,Washington
+CUST_03260,United States,contact@enterprisecompany.com,Enterprise Solutions LLC,,John Smith,1234 Business St,Suite 500,202,Washington
+CUST_01142,Australia,jane.doe@university.edu.au,Australian National University,,Jane Doe,"Canberra, Acton",,02,Canberra
+CUST_03274,Australia,contact@smallbusinessaus.com,Small Business Aus,,John Smith,123 Business Rd,Suite 4B,02,Sydney
+CUST_03700,Brazil,contact@nonprofit.org.br,Nonprofit Organization Brazil,,Maria Santos,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_07940,Germany,info@smallbusiness.de,Kleinunternehmen GmbH,,Anna Schmidt,Musterstraße 12,2. Stock,10117,Berlin
+CUST_04010,Brazil,maria.silva@example.com,,Maria Silva,,"Rua das Flores, 123",,11,São Paulo
+CUST_04155,Australia,contact@charityorganization.org.au,Charity Organization,,John Smith,123 Charity St,Suite 1,02,Sydney
+CUST_04917,Australia,contact@enterprisecompany.com.au,Enterprise Solutions Pty Ltd,,James Smith,123 Innovation Drive,"Level 5, Suite 501",02,Sydney
+CUST_00139,France,jane.doe@school.edu,Academy of Learning,Jane Doe,John Smith,125 Rue de la République,Building B,75001,Paris
+CUST_06417,United States,jane.doe@university.edu,University of Knowledge,Jane Doe,John Smith,123 Education St.,,123,Learning City
+CUST_02661,Australia,jason.smith@email.com,Green Valley High School,,Jason Smith,45 School Road,,02,Sydney
+CUST_06539,United Arab Emirates,john.doe@example.com,,John Doe,,123 Dubai Street,,04,Dubai
+CUST_05868,United States,john.smith@example.com,Smith Academy,John Smith,Jane Doe,123 Main St,,123,Springfield
+CUST_06643,United States,contact@enterprise-solutions.com,Enterprise Solutions Inc.,,John Doe,123 Business Park,Suite 100,303,Denver
+CUST_01864,United Arab Emirates,student@example.com,,Ahmed Al-Farsi,,123 Education St,,04,Dubai
+CUST_08183,Australia,jane.doe@example.com,Sunnydale High School,Jane Doe,Principal Michael Smith,123 Education Ave,"Building B, Suite 4",02,Sydney
+CUST_03364,United Arab Emirates,contact@enterprisecompany.ae,Enterprise Company LLC,,Ahmed Al-Mansoori,1234 Business Bay,Suite 101,04,Dubai
+CUST_03176,United States,contact@techcorp.com,TechCorp Solutions,,John Doe,123 Innovation Drive,Suite 400,60601,Chicago
+CUST_05410,Australia,contact@smallbusiness.com.au,Small Business Solutions,,Jane Doe,123 Business Rd,Suite 5A,02,Sydney
+CUST_07356,Germany,info@techsolutions.com,Tech Solutions GmbH,,Max Müller,Main Street 12,Suite 4B,10115,Berlin
+CUST_02781,Brazil,luiz.souza@example.com,,Luiz Souza,,"Avenida Paulista, 1578",Apto 54,11,São Paulo
+CUST_00183,United Arab Emirates,example.customer@example.com,,Ali Al-Mansoori,,123 Sheikh Zayed Road,,971,Dubai
+CUST_06847,Australia,info@nonprofitorg.au,ABC Non-Profit Organization,,John Doe,123 Charity Lane,,02,Sydney
+CUST_07759,Brazil,contact@nonprofit.org.br,Projeto Esperança,,Mariana Silva,"Avenida Paulista, 1234",Suite 567,11,São Paulo
+CUST_02438,Germany,john.doe@example.com,,John Doe,,123 Main Street,,10115,Berlin
+CUST_09011,Egypt,info@nonprofitorg.com,Non-Profit Organization,,Amina Khaled,123 Charity Ave,Suite 5B,20,Cairo
+CUST_07095,United States,john.doe@gmail.com,,John Doe,,123 Maple Street,,123,Springfield
+CUST_09822,United Arab Emirates,jane.doe@university.edu.ae,Al-Maktoum University,Jane Doe,Dr. Ahmed Al-Farsi,123 Knowledge Avenue,"Building 5, Campus Area",971,Dubai
+CUST_01520,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Max Mustermann,Main Street 45,Suite 2B,10115,Berlin
+CUST_04425,Australia,contact@enterpriseexample.com,Enterprise Example Pty Ltd,,John Doe,123 Business Rd,Suite 456,02,Sydney
+CUST_07171,United Arab Emirates,contact@nonprofitorg.ae,Nonprofit Organization,,Aisha Al-Farsi,123 Charity Lane,Suite 45,02,Abu Dhabi
+CUST_04214,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Smith,1234 Innovation Drive,Suite 100,303,Denver
+CUST_00675,United Arab Emirates,contact@nonprofitorganization.ae,Hope Foundation,,Fatima Al Jazeera,123 Charity Street,Suite 5B,04,Dubai
+CUST_03924,United Arab Emirates,contact@enterpriseexample.com,Enterprise Example LLC,,Ahmed Al-Farsi,123 Business Bay,Suite 456,04,Dubai
+CUST_02793,Brazil,contact@enterprisecompany.com,Enterprise Company Ltd.,,Carlos Silva,"Av. São João, 1234",Suite 567,11,São Paulo
+CUST_00720,Brazil,contact@nonprofitbrazil.org,Nonprofit Brazil,,Mariana Silva,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_08836,Brazil,contact@techsolutions.com.br,Tech Solutions Ltda.,,Lucas Santos,"Av. Paulista, 1000",Suite 500,11,São Paulo
+CUST_08585,Australia,jane.doe@example.com,ABC Education Institute,Jane Doe,Michael Smith,123 Education Ave,Building B,02,Sydney
+CUST_00026,United Arab Emirates,contact@techcorp.ae,TechCorp Solutions,,Ahmed Al-Farsi,123 Innovation Drive,Suite 100,971,Dubai
+CUST_08683,Brazil,jose.silva@example.com,,José Silva,,"Rua da Liberdade, 123",Apto 45,11,São Paulo
+CUST_07764,United Arab Emirates,info@smallbusinessuae.com,Small Business UAE,,Ahmed Al-Mansoori,123 Business Park,Office 45,04,Dubai
+CUST_07558,Australia,john.doe@education.com,Education Solutions Pty Ltd,John Doe,Jane Smith,123 Education St,Suite 5B,02,Sydney
+CUST_00493,Brazil,contact@smallbizexample.com,Small Biz Example Ltda,,Mariana Silva,"Avenida Paulista, 100",Suite 2000,11,São Paulo
+CUST_09468,United Arab Emirates,john.doe@example.com,,John Doe,,123 Palm Street,,04,Dubai
+CUST_09476,Brazil,contact@innovatech.com.br,Innovatech Solutions,,Carlos Silva,"Avenida Paulista, 1000",Suite 500,11,São Paulo
+CUST_03424,Australia,contact@techsolutions.com.au,Tech Solutions Pty Ltd,,Jessica Brown,123 Innovation Drive,Suite 4B,02,Sydney
+CUST_02469,United Arab Emirates,contact@enterpriseexample.com,Enterprise Example LLC,,Ahmed Al-Mansoori,123 Business Bay,Suite 305,04,Dubai
+CUST_06690,Brazil,example@education.com,EduTech Solutions,Maria Silva,Carlos Mendes,"Av. Paulista, 1578",Suite 5B,11,São Paulo
+CUST_03675,United Arab Emirates,contact@businessenterprise.com,Business Enterprise LLC,,Ahmed Al-Farsi,123 Business Bay,Office 456,04,Dubai
+CUST_07424,United Arab Emirates,contact@enterprisecompany.com,Enterprise Solutions LLC,,Ahmed Al-Farsi,123 Business Center,Suite 456,02,Abu Dhabi
+CUST_04558,United Arab Emirates,contact@smallbizuae.com,Small Biz UAE,,Aisha Al-Farsi,123 Business Bay,Suite 456,04,Dubai
+CUST_04571,Australia,contact@techinnovations.com.au,Tech Innovations Pty Ltd,,Alice Johnson,123 Innovation Way,Suite 400,02,Sydney
+CUST_03076,Brazil,ana.silva@school.edu.br,Escola Secundária São Paulo,,Ana Silva,"Rua da Paz, 123",Centro,11,São Paulo
+CUST_03833,Australia,info@nonprofit.org.au,Helping Hands Charity,,Sarah Johnson,123 Hope St,Suite 4B,02,Sydney
+CUST_05811,Germany,info@nonprofitorg.de,Nonprofit Organization GmbH,,Max Mustermann,123 Charity Street,Suite 100,10115,Berlin
+CUST_02750,United States,info@ngoexample.org,Nonprofit Organization Example,,Jane Doe,123 Charity Lane,Suite 200,212,New York
+CUST_05142,Brazil,contact@nonprofit.org.br,Non Profit Organization,,Ana Silva,"Avenida Paulista, 2000",Suite 500,11,São Paulo
+CUST_03723,United Arab Emirates,contact@smallbusinessuae.com,Small Business UAE,,Ahmed Al-Farsi,123 Business Bay,Office 45,04,Dubai
+CUST_09945,United Arab Emirates,jane.doe@example.com,Global Education Solutions,Jane Doe,John Smith,123 Education St.,Suite 456,02,Abu Dhabi
+CUST_00167,Brazil,contact@techsolutions.com.br,Tech Solutions Ltda,,Carlos Silva,"Avenida Paulista, 1578",Suite 501,11,São Paulo
+CUST_01539,United Arab Emirates,contact@nonprofitorg.ae,Nonprofit Organization for Education,,Ahmed Al-Mansoori,123 Charity Street,Suite 4B,02,Abu Dhabi
+CUST_07620,Germany,julia.schmidt@education.org,Schmidt Education Services,,Julia Schmidt,Musterstraße 10,2nd Floor,10115,Berlin
+CUST_02973,Australia,contact@enterprisecompany.com,Enterprise Company Pty Ltd,,Sarah Johnson,123 Business Rd,Suite 10B,02,Sydney
+CUST_08851,United Arab Emirates,jane.doe@example.com,Educational Innovations LLC,Jane Doe,John Smith,123 Knowledge Way,"Building 5, Suite 201",971,Dubai
+CUST_04069,United States,contact@nonprofitorganization.org,Nonprofit Organization Inc.,,Jane Doe,123 Charity Lane,Suite 101,202,Washington
+CUST_08161,Brazil,contact@enterprisecompany.com,Enterprise Company Ltd.,,Maria Silva,"Avenida Paulista, 1000",Suite 1500,11,São Paulo
+CUST_06262,Germany,contact@smallbizgermany.com,Small Biz Germany,,Hans Müller,Berliner Str. 20,,10115,Berlin
+CUST_06433,United Arab Emirates,ahmed.alhassan@example.com,,Ahmed Al Hassan,,123 Al Maktoum St,,02,Abu Dhabi
+CUST_02762,Brazil,contact@smallbusiness.com,Small Business Solutions,,Carlos Silva,123 Main St,Suite 100,11,São Paulo
+CUST_01989,Brazil,joao.silva@example.com,,João Silva,,"Avenida Paulista, 1234",Suite 567,11,São Paulo
+CUST_06310,United States,contact@smallbusiness.com,Small Business LLC,,Jane Doe,123 Business Rd,Suite 456,303,Denver
+CUST_02850,Germany,contact@nonprofitgermany.org,German Non-Profit Organization,,Anna Müller,Musterstraße 10,2nd Floor,10115,Berlin
+CUST_02306,United States,john.doe@example.com,,John Doe,,1234 Elm Street,Apt 567,90210,Beverly Hills
+CUST_08802,Brazil,jose.silva@example.com,,José Silva,,"Avenida Paulista, 1578",Centro,11,São Paulo
+CUST_02094,Australia,contact@nonprofitorg.au,Helping Hands Australia,,Sarah Johnson,123 Charity Ave,Suite 5,02,Sydney
+CUST_03677,Australia,contact@smallbizexample.com,Small Biz Example Pty Ltd,,Jane Doe,123 Business Rd,Suite 5,02,Sydney
+CUST_08343,Germany,info@smallbusiness.de,SmallTech Solutions,,Max Müller,Musterstraße 1,2. OG,10115,Berlin
+CUST_03902,Australia,contact@smallbiz.com.au,Small Biz Solutions,,Jane Doe,123 Main St,Suite 4B,02,Sydney
+CUST_01994,Brazil,johndoe@example.com,,John Doe,,123 Rua das Flores,,11,São Paulo
+CUST_00295,Brazil,contact@techsolutions.com.br,Tech Solutions Ltda,,Maria Oliveira,"Av. Paulista, 1578",Suite 501,11,São Paulo
+CUST_05308,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Max Müller,Berliner Str. 45,Suite 3B,10115,Berlin
+CUST_06916,United Arab Emirates,john.doe@example.com,,John Doe,,123 Palm Street,,971,Dubai
+CUST_07553,Germany,contact@enterpriseexample.com,Enterprise Example GmbH,,Max Müller,123 Business Str.,Suite 456,10115,Berlin
+CUST_00803,Australia,contact@smallbusiness.com.au,Small Business Co.,,John Doe,123 Business St,Suite 4B,02,Sydney
+CUST_03928,United States,jane.doe@example.edu,Green Valley University,Jane Doe,,123 University Drive,Suite 200,123,Springfield
+CUST_07025,United States,contact@nonprofitorganization.org,Non-Profit Organization,,Jane Doe,123 Charity St,Suite 100,555,New York
+CUST_06220,Germany,john.doe@example.com,,John Doe,,Musterstraße 1,Apartment 2B,10115,Berlin
+CUST_06039,United Arab Emirates,contact@smallbusinessuae.com,Small Business Solutions LLC,,Sara Al-Farsi,123 Business Bay,Suite 456,971,Dubai
+CUST_07082,Germany,max.muller@schule.de,Max Müller Schule,,Max Müller,Schulstraße 5,1. Stock,10115,Berlin
+CUST_02295,Australia,info@nonprofitorganization.org.au,Community Support Network,,Emily Johnson,123 Charity Way,Suite 5,02,Sydney
+CUST_03553,United Arab Emirates,ahmed.almeida@example.com,,Ahmed Almeida,,1234 Al Nahda St,Dubai Marina,04,Dubai
+CUST_00205,United Arab Emirates,ahmed_aljazeera@email.com,,Ahmed Al Jazeera,,123 Desert Road,,04,Dubai
+CUST_09360,Brazil,contact@smallbusiness.com,Small Business Solutions,,Carlos Silva,"Av. Paulista, 1234",Suite 5678,11,São Paulo
+CUST_00718,United Arab Emirates,john.doe@example.com,,John Doe,,123 Arabian Street,"Building 5, Apartment 12",971,Dubai
+CUST_08386,Australia,john.doe@university.edu.au,Springfield University,,John Doe,123 University St,Building B,02,Sydney
+CUST_06477,Brazil,john.doe@example.com,Tech Training Institute,John Doe,Jane Smith,123 Education Blvd,Suite 456,11,São Paulo
+CUST_05627,United States,contact@empiretech.com,Empire Technologies,,John Doe,1234 Innovation Drive,Suite 500,90210,Beverly Hills
+CUST_00671,United States,jane.doe@education.org,Doe Education Services,Jane Doe,,1234 Education Lane,Suite 100,800,Los Angeles
+CUST_03793,Germany,max.müller@example.com,,Max Müller,,Berliner Straße 45,2nd Floor,10115,Berlin
+CUST_00991,United States,john.doe@example.com,,John Doe,,123 Main St,,90210,Beverly Hills
+CUST_02576,Australia,contact@smallbusiness.com.au,Small Business Co.,,John Doe,123 Business St,Suite 10,"Sydney, 02",Sydney
+CUST_03802,Germany,info@example-nonprofit.org,Helping Hands Charity,,Anna Müller,123 Charity Street,Suite 456,10115,Berlin
+CUST_02726,United Arab Emirates,info@nonprofitorg.ae,Nonprofit Organization UAE,,Sarah Al-Farsi,123 Charity St.,Suite 456,04,Dubai
+CUST_03047,United States,info@nonprofitorganization.org,Helping Hands Charity,,John Doe,123 Charity St,Suite 100,202,Washington
+CUST_06719,Brazil,contact@enterprisecompany.com,Enterprise Company Ltd.,,João Silva,"Avenida Paulista, 1234",Suite 567,11,São Paulo
+CUST_08093,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Anna Schmidt,Berliner Str. 45,Suite 2B,10115,Berlin
+CUST_00957,United Arab Emirates,info@businesssolution.com,Business Solutions LLC,,Ali Al-Mansoori,123 Business Bay,Office 456,04,Dubai
+CUST_02965,Australia,jane.doe@example.com,Star Academy,Jane Doe,John Smith,1234 Education St,Suite 567,02,Sydney
+CUST_06048,United States,contact@smallbiz.com,Small Biz Solutions,,John Doe,123 Small St,,555,Springfield
+CUST_08211,United Arab Emirates,contact@nonprofituae.org,Nonprofit UAE,,Aisha Al-Mansoori,123 Charity Avenue,Suite 10B,04,Dubai
+CUST_01339,Australia,james.smith@example.com,,James Smith,,123 Elm Street,Unit 4B,02,Sydney
+CUST_03227,Brazil,contact@techsol.com.br,Tech Solutions Ltd.,,Carlos Silva,"Av. Paulista, 1000",Suite 500,11,São Paulo
+CUST_02506,United Arab Emirates,info@smallbusinessue.com,Small Business UAE,,Ali Ahmed,123 Business Bay,Office 456,04,Dubai
+CUST_04750,Australia,contact@techsolutions.com.au,Tech Solutions Pty Ltd,,John Smith,123 Innovation Drive,Suite 5B,02,Sydney
+CUST_08282,Brazil,contact@techsolutions.com.br,Tech Solutions Ltda,,Maria Silva,"Avenida Paulista, 2000",Suite 1001,11,São Paulo
+CUST_07176,United Arab Emirates,contact@enterprisecompany.com,Enterprise Solutions LLC,,John Doe,123 Business Bay,Suite 456,02,Abu Dhabi
+CUST_07213,United Arab Emirates,info@smallbusiness.com,Small Business Solutions,,Ahmed Al-Farsi,123 Business Bay,Suite 456,04,Dubai
+CUST_03295,Brazil,jane.doe@education.org.br,Educação para Todos,Jane Doe,Jane Doe,"Avenida Paulista, 1234",Centro,11,São Paulo
+CUST_06954,Brazil,contact@nonprofitorganization.org.br,Nonprofit Organization of Brazil,,Maria Silva,123 Rua do Brasil,Suite 100,11,São Paulo
+CUST_02776,United Arab Emirates,john.doe@example.com,Learning Academy,John Doe,Jane Smith,123 Education St.,Suite A,971,Dubai
+CUST_01943,United States,john.doe@email.com,Green Valley High School,John Doe,Jane Smith,123 Maple St,Suite 100,555,Springfield
+CUST_01037,United States,johndoe@example.com,,John Doe,,123 Main St,,90210,Beverly Hills
+CUST_07543,United Arab Emirates,info@techsolutions.ae,Tech Solutions LLC,,Ahmed Al-Farsi,123 Innovation Park,Suite 4B,04,Dubai
+CUST_05463,United Arab Emirates,contact@nonprofitorganization.org,Non-Profit Organization,,Aisha Al Farsi,123 Charity Ave,Suite 10B,971,Dubai
+CUST_05068,United Arab Emirates,contact@nonprofitorg.ae,Hope for Humanity,,Aisha Al-Farsi,123 Sheikh Zayed Road,Suite 45,02,Abu Dhabi
+CUST_05202,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Smith,1234 Innovation Drive,Suite 400,303,Denver
+CUST_00187,Australia,contact@nonprofitorg.org.au,Nonprofit Organization,John Doe,Jane Smith,123 Charity Lane,Suite 4B,02,Sydney
+CUST_00270,Brazil,contact@largeenterprise.com,Large Enterprise Corp,,Maria Silva,"Avenida das Américas, 5000",Suite 200,21,Rio de Janeiro
+CUST_09950,United States,jane.doe@example.com,Doe Educational Services,Jane Doe,Jane Doe,123 Learning Lane,Suite 100,555,Springfield
+CUST_04483,United States,johndoe@example.com,,John Doe,,123 Main St,,90210,Beverly Hills
+CUST_03559,United Arab Emirates,john.doe@example.com,,John Doe,,1234 Palm Street,Apartment 56,04,Dubai
+CUST_01997,Brazil,john.doe@example.com,,John Doe,,123 Main St,Apt 4B,11,São Paulo
+CUST_09713,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Doe,123 Innovation Drive,Suite 200,303,Denver
+CUST_02829,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,João Silva,"Avenida Paulista, 1234",Sala 45,11,São Paulo
+CUST_07070,United Arab Emirates,customer07070@example.com,,Ali Ahmed,,123 Sheikh Zayed Road,,04,Dubai
+CUST_07118,United Arab Emirates,contact@enterpriseexample.com,Enterprise Solutions LLC,,Ahmed Al-Mansoori,123 Business Bay,Office 45B,800,Dubai
+CUST_05832,Australia,info@nonprofitorg.org.au,Helping Hands Foundation,,Alice Smith,123 Charity St,Suite 4B,02,Sydney
+CUST_08465,Brazil,jose.silva@education.com,Instituto Educacional Silva,José Silva,José Silva,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_02106,Australia,contact@smallbiz.com.au,Small Biz Solutions,,Emily Johnson,123 Business St,Suite 4B,02,Sydney
+CUST_04892,Germany,info@smallbusiness-germany.de,Small Business GmbH,,Hans Müller,Musterstraße 12,2nd Floor,10115,Berlin
+CUST_00184,Australia,jane.doe@university.edu.au,XYZ University,,Jane Doe,123 University St,Building A,02,Sydney
+CUST_09108,United States,john.doe@example.com,Greenwood High School,John Doe,Jane Smith,1234 Elm Street,Building B,303,Denver
+CUST_04766,Singapore,contact@techsolutions.com,Tech Solutions Pte Ltd,,Alice Tan,123 Tech Street,Suite 45B,629,Singapore
+CUST_02926,Germany,lisa.müller@university.de,University of Berlin,Lisa Müller,Dr. Max Schmidt,123 Academic St.,"Building A, Room 101",10115,Berlin
+CUST_08722,Australia,info@nonprofitorganization.org.au,Community Support Network,,Sarah Johnson,47 Hope Street,,02,Sydney
+CUST_04288,Brazil,contact@techsolutions.com.br,Tech Solutions Ltd.,,Maria Silva,"Avenida Paulista, 1578",Suite 200,11,São Paulo
+CUST_08552,Australia,contact@enterprisecompany.com,Enterprise Solutions Pty Ltd,,John Doe,456 Business Rd,Suite 10B,02,Sydney
+CUST_03962,Germany,info@smallbizgermany.com,Small Biz Germany,,Max Müller,123 Business St,Suite 4B,10115,Berlin
+CUST_05559,Australia,contact@techsolutions.com.au,Tech Solutions Pty Ltd,,Jane Doe,123 Innovation Way,Suite 4B,02,Sydney
+CUST_06846,United Arab Emirates,amanda.jones@education.org,Global Learning Institute,,Amanda Jones,123 Knowledge Ave,Suite 5B,800,Dubai
+CUST_07985,Australia,john.doe@educationaustralia.edu.au,Education Australia,John Doe,Jane Smith,123 Education Lane,Suite 5B,02,Sydney
+CUST_09678,Germany,jan.smith@university.edu,Berlin University,Jan Smith,Jan Smith,Königin-Luise-Straße 34,,030,Berlin
+CUST_08096,Brazil,contact@nonprofit.org.br,Nonprofit Organization Brazil,,Maria Silva,Rua da Esperança 123,Centro,11,São Paulo
+CUST_09344,Germany,contact@enterprise-company.com,Enterprise Solutions GmbH,,Hans Müller,1234 Business St,Suite 567,10117,Berlin
+CUST_09500,Brazil,contact@techinnovators.com,Tech Innovators Ltd.,,Lucas Silva,"Avenida Presidente Vargas, 500",Suite 203,21,Rio de Janeiro
+CUST_03576,United Arab Emirates,john.doe@example.com,,John Doe,,1234 Oasis Street,,04,Dubai
+CUST_00423,United Arab Emirates,contact@nonprofitorganization.org,Non Profit Organization,,Ahmed Al-Farsi,123 Charity Ave,Suite 456,04,Dubai
+CUST_08480,Germany,max.muster@example.com,,Max Muster,,Musterstraße 12,,10115,Berlin
+CUST_03178,United States,contact@nonprofitorganization.org,Non-Profit Organization,,John Smith,123 Charity Ave,Suite 200,202,Washington
+CUST_04052,United Arab Emirates,johndoe@example.com,,John Doe,,123 Sheikh Zayed Road,,971,Dubai
+CUST_09033,Brazil,contact@nonprofit.org.br,NonProfit Organization,,Maria Silva,"Avenida Nossa Senhora de Copacabana, 123",Suite 456,21,Rio de Janeiro
+CUST_03097,United States,contact@nonprofitorg.org,NonProfit Organization,,Jane Doe,123 Charity Ave,Suite 100,555,New York
+CUST_05579,Australia,contact@enterpriseexample.com,Enterprise Solutions Ltd,,Jessica Smith,123 Innovation Drive,Suite 5B,02,Sydney
+CUST_05451,Singapore,contact@techsolutions.sg,Tech Solutions Pte Ltd,,John Tan,123 Tech Park,Suite 45B,6483,Singapore
+CUST_02346,Australia,sarah.jones@educationdomain.edu.au,Future Learning Institute,Sarah Jones,Sarah Jones,24 Education St,Suite 5,02,Sydney
+CUST_01903,Germany,john.doe@example.com,,John Doe,,1234 Elm St,,10115,Berlin
+CUST_08712,Brazil,contact@smallbusiness.com.br,Small Business Solutions,,Maria Silva,"Av. Doutor Chucri Zaidan, 123","Sala 45, Bloco B",11,São Paulo
+CUST_06125,Germany,max.muller@educationexample.com,Education Innovations GmbH,,Max Müller,123 Learning Street,Suite 45,10117,Berlin
+CUST_07479,Brazil,maria.silva@educationsource.br,Education Source,Maria Silva,Maria Silva,"Rua das Flores, 123",Apt 401,11,São Paulo
+CUST_00045,United States,jane.doe@example.com,ABC University,,Jane Doe,123 College Ave,Suite 100,123,Springfield
+CUST_06383,Germany,info@charityorg.de,Charity Organization,,Anna Müller,Musterstrasse 1,2. OG,10115,Berlin
+CUST_01860,Egypt,ahmed.el-sayed@email.com,Cairo University,,Ahmed El-Sayed,123 Academic St.,,202,Cairo
+CUST_05309,Brazil,maria.santos@example.com,Educação Avançada LTDA,Maria Santos,Maria Santos,"Rua das Flores, 123",Apt 45,11,São Paulo
+CUST_00245,United States,info@nonprofitorganization.org,Helping Hands Non-Profit,,Sarah Johnson,123 Charity Way,Suite 100,555,Springfield
+CUST_01372,Germany,contact@smallbusinessgmbh.de,Small Business GmbH,,Max Müller,Musterstraße 12,2nd Floor,10115,Berlin
+CUST_07499,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Max Müller,Berliner Str. 123,Suite 45,030,Berlin
+CUST_07846,Germany,contact@nonprofit.org,Helping Hands NGO,,Anna Müller,Bergstraße 12,1st Floor,DE-10115,Berlin
+CUST_01270,Australia,contact@nonprofit.org.au,Positive Change Foundation,,Emma Johnson,42 Charity Lane,Suite 5,2612,Canberra
+CUST_04684,Germany,johann.schmidt@educationworld.de,Education World GmbH,,Johann Schmidt,Musterstraße 1,2nd Floor,10115,Berlin
+CUST_01410,Brazil,contact@examplebusiness.com,Example Business Ltda.,,Maria Silva,"Avenida Paulista, 1578",Suite 1203,11,São Paulo
+CUST_07826,Germany,anna.müller@schule.de,Schule für Innovation,Anna Müller,Anna Müller,Musterstraße 1,2. Stock,10115,Berlin
+CUST_04536,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Anna Müller,Friedrichstraße 123,Suite 400,10117,Berlin
+CUST_05875,United States,john.doe@example.com,Sunnyvale High School,John Doe,Jane Smith,123 Main St,Building A,94086,Sunnyvale
+CUST_05676,Brazil,info@nonprofitorg.br,Non Profit Org,,Maria Silva,"Rua das Flores, 123",Sala 100,11,São Paulo
+CUST_01269,Australia,info@nonprofit.org.au,NonProfit Organization,,Jessica Smith,123 Charity Street,Suite 4B,02,Sydney
+CUST_00326,United States,john.doe@example.com,,John Doe,,123 Main St,,123,Springfield
+CUST_07755,Mexico,contact@smallbusiness.com,Small Business Solutions,,Juan Pérez,123 Business St.,Suite 100,55,Mexico City
+CUST_08321,United Arab Emirates,contact@smallbizuae.com,Small Biz UAE,,Ahmed Al-Farsi,123 Business Bay,Office 45,04,Dubai
+CUST_01645,Australia,info@techsolutions.com.au,Tech Solutions Pty Ltd,,Jane Doe,123 Innovation Drive,Suite 20B,02,Sydney
+CUST_02159,United States,contact@nonprofitorganization.org,Helping Hands,,Jane Smith,123 Charity St,,123,Springfield
+CUST_04233,Australia,contact@enterprisecompany.com.au,Enterprise Solutions Pty Ltd,,Jane Doe,123 Innovation Drive,Suite 200,02,Sydney
+CUST_02658,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,Julia Santos,"Av. São João, 123",Centro,11,São Paulo
+CUST_00376,Australia,john.smith@education.edu.au,Smith Education Institute,John Smith,John Smith,123 Learning Lane,Suite 456,02,Sydney
+CUST_04816,United States,contact@enterprisecompany.com,Enterprise Company LLC,,John Doe,123 Business Rd,Suite 400,303,Denver
+CUST_07383,Germany,anna.smith@university.edu,University of Berlin,Anna Smith,Dr. John Doe,123 Academic Rd,Building A,10115,Berlin
+CUST_03619,Australia,john.doe@university.edu.au,Greenfield University,,John Doe,1234 University Ave,"Building D, Room 101",02,Sydney
+CUST_00507,United States,contact@nonprofitorganization.org,Non-Profit Organization Inc.,,John Doe,456 Charity Lane,Suite 100,555,Charityville
+CUST_01465,Brazil,john.doe@example.com,,John Doe,,"Rua da Liberdade, 123",Apt 45,11,São Paulo
+CUST_08922,Germany,janedoe@example.com,,Jane Doe,,Friedrichstraße 123,,10117,Berlin
+CUST_05931,Australia,contact@techsolution.com.au,Tech Solution Pty Ltd,,John Doe,123 Innovation Drive,Suite 456,02,Sydney
+CUST_03623,Brazil,contact@smallbizbr.com,Small Biz Brazil Ltda,,Carlos Silva,"Rua das Flores, 123",Sala 202,11,São Paulo
+CUST_00693,Germany,max.mustermann@example.com,,Max Mustermann,,Musterstraße 1,,10115,Berlin
+CUST_07934,Australia,info@nonprofitorganization.org.au,Non-Profit Organization,,Jane Doe,123 Charity St,Suite 100,02,Sydney
+CUST_09757,Germany,john.doe@example.com,,John Doe,,123 Main Street,,10115,Berlin
+CUST_09964,Australia,john.doe@email.com,ABC Education Institute,John Doe,Jane Smith,123 Education Ave,Suite 10,02,Sydney
+CUST_01474,United States,contact@enterpriseinc.com,Enterprise Inc.,,John Doe,123 Corporate Blvd,Suite 456,123,San Francisco
+CUST_09847,Germany,contact@nonprofit-example.org,Example Non-Profit Organization,,Anna Müller,Musterstraße 1,2nd floor,10115,Berlin
+CUST_09082,United States,contact@smallbusiness.com,Small Business Inc.,,John Doe,1234 Elm St,,123,Springfield
+CUST_03139,Australia,contact@smallbusiness.com.au,Small Business Co.,,Jane Doe,123 Business Ave,Suite 100,02,Sydney
+CUST_03900,United Arab Emirates,info@techsolutions.ae,Tech Solutions LLC,,Ahmed Al-Hashimi,123 Innovation Drive,Suite 4B,971,Dubai
+CUST_02314,Germany,info@nonprofit-organization.de,Helping Hands Foundation,,Anna Müller,Main Street 12,Suite 4B,10115,Berlin
+CUST_08612,Australia,contact@nonprofit.org.au,Helping Hands Organization,,John Smith,123 Charity St,Suite 100,02,Sydney
+CUST_05561,Brazil,leonardo.souza@example.com,,Leonardo Souza,,"Rua das Flores, 123",Apto 45,11,São Paulo
+CUST_02032,Germany,info@nonprofitorganisation.de,Helping Hands e.V.,,Anna Müller,Musterstraße 10,2. Etage,10115,Berlin
+CUST_02898,Brazil,carlos.silva@edu.br,Instituto Educacional de São Paulo,Carlos Silva,,"Rua das Palmeiras, 123",Centro,11,São Paulo
+CUST_09191,Germany,john.doe@example.com,,John Doe,,123 Main Street,Apartment 4B,10115,Berlin
+CUST_05603,United Arab Emirates,info@educationuae.com,Education Hub LLC,Ali Ahmed,Sara Al-Farsi,123 Academic Street,Suite 456,04,Dubai
+CUST_09655,United Arab Emirates,contact@nonprofitorg.ae,Non-Profit Organization,,Fatima Al Zahrani,123 Charity Street,Suite 4B,04,Dubai
+CUST_01182,United States,contact@smallbusiness.com,Small Business Inc.,,John Doe,123 Main St,Suite 100,123,Springfield
+CUST_04531,United States,contact@techinnovations.com,Tech Innovations LLC,,Alice Johnson,1234 Innovation Drive,Suite 100,90210,Beverly Hills
+CUST_06773,United States,jane.doe@example.com,Green Valley High School,,Jane Doe,123 School Lane,Building B,90210,Beverly Hills
+CUST_02882,Australia,jane.doe@example.com,,Jane Doe,,12345 Maple Street,,02,Sydney
+CUST_02049,Germany,info@charityorg.de,Charity Organization Germany,,Hannah Müller,Kaiserstraße 10,2nd Floor,10115,Berlin
+CUST_04624,Australia,contact@techsolutions.com.au,Tech Solutions Pty Ltd,,John Smith,123 Innovation Drive,Suite 5B,02,Sydney
+CUST_08237,United Arab Emirates,info@nonprofituae.org,Non Profit UAE,,Fatima Al-Mansoori,123 Charity Lane,Suite 3B,02,Abu Dhabi
+CUST_09972,Australia,contact@techinnovations.com.au,Tech Innovations Ltd,,Emily Johnson,22 Innovation Park,Suite 5A,02,Sydney
+CUST_07988,United States,john.doe@example.com,,John Doe,,123 Maple Street,,90210,Beverly Hills
+CUST_00067,Brazil,joao.silva@example.com,,João Silva,,"Rua da Liberdade, 45",,11,São Paulo
+CUST_03340,Germany,info@smallbusinessgermany.de,Klein Unternehmen GmbH,,Hans Müller,Musterstraße 12,2nd Floor,10115,Berlin
+CUST_00179,United Arab Emirates,contact@innovatech.ae,Innovatech Solutions,,Ahmed Al-Mansoori,123 Business Bay,"Floor 5, Suite 501",04,Dubai
+CUST_00732,United Arab Emirates,contact@techsolutions.ae,Tech Solutions LLC,,Ahmed Al-Farsi,123 Business Bay,"Office 45, Floor 12",04,Dubai
+CUST_01391,Australia,john.doe@example.com,,John Doe,,123 King Street,Apartment 4B,2000,Sydney
+CUST_01168,Australia,john.doe@example.com,,John Doe,,123 Sydney Road,Unit 5B,02,Sydney
+CUST_06692,United Arab Emirates,contact@uaenonprofit.org,UAE Charity Foundation,,Fatima Al-Mansoori,123 Community Drive,"Building A, Suite 45",02,Abu Dhabi
+CUST_03798,Australia,johndoe@example.com,,John Doe,,123 Elm Street,Apartment 4B,02,Sydney
+CUST_00616,United Arab Emirates,ahmed.alvarez@example.com,,Ahmed Alvarez,,"1234, Sheikh Zayed Road",Downtown,04,Dubai
+CUST_02213,United States,contact@smallbusinessexample.com,Small Business Example LLC,,John Doe,123 Main St,Suite 100,555,Anytown
+CUST_01341,Brazil,maria.silva@example.com,,Maria Silva,,"Avenida Paulista, 1578",Ap 34B,11,São Paulo
+CUST_06948,United States,johndoe@example.com,,John Doe,,123 Main St,Apt 4B,10001,New York
+CUST_06925,Germany,info@nonprofitorg.de,Deutsche Hilfsorganisation,,Anna Schmidt,Hauptstraße 45,2. OG,10115,Berlin
+CUST_09113,Australia,contact@enterprise-example.com,Enterprise Example Pty Ltd,,John Doe,123 Business Rd,Suite 456,02,Sydney
+CUST_07952,United Arab Emirates,info@educationuae.org,Education UAE Foundation,Sara Ahmed,Mr. Ali Khan,123 Knowledge Street,Innovation Plaza,02,Abu Dhabi
+CUST_06469,Australia,john.doe@example.com,,John Doe,,123 Main St,Unit 4B,02,Sydney
+CUST_03154,Australia,jane.doe@education.org.au,Learning Innovations Ltd,Jane Doe,Jane Doe,123 Education St,Suite 10B,02,Sydney
+CUST_04568,Germany,contact@nonprofitorg.de,NonProfit Organization,,Anna Schmidt,123 Charity St.,,10115,Berlin
+CUST_00919,Australia,contact@techsolutions.com.au,Tech Solutions Pty Ltd,,Emily Johnson,123 Innovation Drive,Suite 45,02,Sydney
+CUST_00193,Germany,info@smallbusiness.de,Klein Unternehmen GmbH,,Hans Müller,Hauptstraße 10,2. Stock,10115,Berlin
+CUST_03200,United States,john.doe@example.com,,John Doe,,123 Main St,Apt 4B,10001,New York
+CUST_03769,United Arab Emirates,contact@smallbizuae.com,Small Biz UAE,,Sara Ahmed,123 Business Bay,Suite 456,9714,Dubai
+CUST_02160,Germany,info@nonprofitorg.de,NonProfit Org,,Anna Schmidt,Hauptstraße 5,2nd Floor,10115,Berlin
+CUST_09698,Brazil,student123@educamail.com,,Lucas Silva,,"Rua das Flores, 123",,11,São Paulo
+CUST_09744,Brazil,jose.silva@example.com,,José Silva,,"Rua das Flores, 123",Apto 45,11,São Paulo
+CUST_04012,Germany,max.muster@example.com,,Max Muster,,Musterstraße 1,,10115,Berlin
+CUST_01105,United Arab Emirates,info@smallbusiness.ae,Small Business LLC,,Ahmed Al Farsi,123 Business Bay,,800,Dubai
+CUST_06679,United Arab Emirates,contact@uaenonprofit.org,UAE Non-Profit Organization,,Fatima Al Rashid,123 Charity St.,Suite 4B,800,Dubai
+CUST_01591,Brazil,example.educator@educator.com,Example Education Institute,Maria Silva,Dr. João Pereira,"Av. Paulista, 1000",Suite 500,11,São Paulo
+CUST_02729,Brazil,contact@smallbizbra.com,Small Biz Brazil,,Ana Costa,123 Av. Paulista,Suite 10B,11,São Paulo
+CUST_02631,Germany,info@nonprofit.org,Helping Hands Foundation,,Anna Schmidt,Musterstraße 12,1st Floor,10115,Berlin
+CUST_08912,United States,john.doe@example.com,,John Doe,,123 Main St,,90210,Beverly Hills
+CUST_07367,Germany,anna.meyer@example.com,Tech University,,Anna Meyer,123 Education Lane,Building A,10115,Berlin
+CUST_03189,Brazil,contact@smallbusiness.com.br,Pequenas Coisas Ltda.,,João Silva,"Av. Paulista, 1000",Suite 400,11,São Paulo
+CUST_09534,Australia,contact@enterprisecompany.com,Enterprise Solutions Pty Ltd,,John Doe,123 Business Rd,Suite 100,02,Sydney
+CUST_00925,Germany,info@nonprofitorganization.org,Non Profit Organization,,Anna Müller,123 Charity Street,Suite 100,10115,Berlin
+CUST_07506,Germany,info@nonprofit.org,Helping Hands Charity,,Anna Schmidt,Musterstraße 45,Suite 3B,10115,Berlin
+CUST_09370,Germany,info@educationinstitution.de,Education Institution GmbH,,Anna Schmidt,Musterstraße 123,2nd Floor,10115,Berlin
+CUST_08835,Germany,max.mustermann@example.com,,Max Mustermann,,Musterstrasse 123,Apartment 4B,10115,Berlin
+CUST_06966,United States,contact@smallbusiness.com,Small Business Solutions,,John Doe,123 Business Rd,,303,Denver
+CUST_09550,Australia,contact@smallbusiness.com.au,Small Business Pty Ltd,,John Smith,123 Business St,Suite 5B,02,Sydney
+CUST_02507,Australia,johndoe@example.com,,John Doe,,123 Main Street,,02,Sydney
+CUST_05092,Brazil,contact@techsolutions.com.br,Tech Solutions Ltda.,,Maria Silva,"Av. Paulista, 1578",Suite 1003,11,São Paulo
+CUST_00278,United States,john.doe@example.com,Springfield High School,John Doe,Jane Smith,123 Elm Street,Suite 200," Springfield, IL 62704",Springfield
+CUST_06501,Australia,info@nonprofitorg.au,Community Support Group,,Sarah Johnson,45 Helping Hands St,Suite 2B,02,Sydney
+CUST_04501,Australia,contact@nonprofitorg.au,Helping Hands Organization,,Emma Thompson,123 Charity Way,Suite 4B,02,Sydney
+CUST_03310,Australia,johndoe@example.com,,John Doe,,123 Main Street,Unit 4B,02,Sydney
+CUST_05205,Australia,jane.doe@example.edu.au,Green Valley High School,Jane Doe,John Smith,123 Education Lane,Building A,02,Sydney
+CUST_06796,Brazil,contact@enterpriseexample.com,Enterprise Example Ltda.,,Lucas Alvez,"Av. Paulista, 1234",Suite 1001,11,São Paulo
+CUST_05646,United Arab Emirates,ahmed.al.farsi@example.com,Al Farsi Education Institute,Ahmed Al Farsi,Ahmed Al Farsi,123 Knowledge St,Suite 4B,04,Dubai
+CUST_05414,Germany,info@educationsolutions.de,Education Solutions GmbH,,Anna Müller,Berliner Straße 45,2. OG,10117,Berlin
+CUST_08085,Australia,john.smith@university.edu.au,XYZ University,John Smith,John Smith,123 University Rd,Building A,02,Sydney
+CUST_09514,Germany,contact@techsolution.com,Tech Solutions GmbH,,Johann Müller,123 Innovation Street,Suite 5A,10115,Berlin
+CUST_08535,Brazil,maria.souza@example.com,,Maria Souza,,"Avenida Paulista, 1578",Centro,11,São Paulo
+CUST_03258,UAE,john.doe@example.com,,John Doe,,1234 Emirate Blvd,Apartment 45B,971,Dubai
+CUST_05840,United States,info@nonprofit-organization.org,Helping Hands Initiative,,Jane Doe,123 Charity Lane,Suite 100,555,Springfield
+CUST_06234,Australia,johndoe@example.com,,John Doe,,123 Elm Street,,02,Sydney
+CUST_05093,Brazil,maria.silva@example.com,,Maria Silva,,123 Avenida Paulista,Apt 45B,11,São Paulo
+CUST_02893,United States,contact@smallbizco.com,Small Biz Co,,John Doe,123 Business St,Suite 100,555,Springfield
+CUST_01877,Australia,jane.doe@example.edu.au,ABC University,,Jane Doe,123 University Ave,"Building A, Room 45",02,Sydney
+CUST_09703,Australia,jane.doe@example.com,,Jane Doe,,123 Dream St,Apartment 4B,02,Sydney
+CUST_08076,Australia,contact@smallbusiness.com.au,Small Business Solutions,,John Smith,123 Business St,Suite 4B,02,Sydney
+CUST_00878,United States,contact@smallbusiness.com,Small Business Co.,,John Doe,123 Business Rd,Suite 200,555,Los Angeles
+CUST_03173,Brazil,contact@techsolutions.com.br,Tech Solutions Ltda,,Lucas Pereira,"Av. Paulista, 1578",3rd Floor,11,São Paulo
+CUST_09206,Brazil,contact@nonprofit.org.br,Nonprofit Organization Brasil,,Maria Silva,"Rua São Paulo, 123",Suite 15B,11,São Paulo
+CUST_04003,United Arab Emirates,contact@techsolutions.ae,Tech Solutions LLC,,Ahmed Al-Farsi,123 Innovation Drive,Suite 456,02,Abu Dhabi
+CUST_06732,Germany,contact@nonprofitorg.de,German Non-Profit Organization,,Anna Schmidt,Musterstraße 12,2. OG,10115,Berlin
+CUST_05290,Brazil,contact@smallbusiness.com.br,Pequena Empresa Ltda,,Fernando Silva,"Avenida Paulista, 123",Suite 405,11,São Paulo
+CUST_09090,United States,contact@smallbusiness.com,Small Business LLC,,John Doe,123 Business Ave,Suite 100,202,Washington
+CUST_04785,Brazil,maria.souza@example.com,Instituto Educacional Brasil,Maria Souza,Maria Souza,"Av. Paulista, 1578",Suite 12,11,São Paulo
+CUST_06998,France,john.doe@example.com,,John Doe,,123 Rue de l'Exemple,,75001,Paris
+CUST_06812,United States,info@smallbiz.com,Small Biz LLC,,John Doe,123 Business Rd,Suite 400,202,Washington
+CUST_00365,Brazil,contact@innovatech.com.br,Innovatech Solutions,,Luciana Silva,"Av. Paulista, 1578",Suite 300,11,São Paulo
+CUST_00453,Brazil,contact@nonprofitorganization.org,Non-Profit Organization Brazil,,Mariana Silva,"Av. da Liberdade, 1234",Centro,11,São Paulo
+CUST_07893,Australia,contact@smallbusiness.com.au,Small Business Solutions,,Alice Thompson,123 Business Rd,Suite 4B,02,Sydney
+CUST_05112,United States,contact@smallbusiness.com,Small Business LLC,,John Doe,123 Business Ave.,,303,Denver
+CUST_04223,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Hans Müller,1234 Innovation Street,Office 56,10115,Berlin
+CUST_05725,Brazil,contact@smallbusiness.com.br,Pequena Empresa Ltda.,,Carlos Silva,"Av. Paulista, 1578",Sl. 2501,11,São Paulo
+CUST_06100,Brazil,contact@nonprofitbrazil.org,Non-Profit Brazil,,Ana Silva,"Rua da Paz, 123",Centro,11,São Paulo
+CUST_02249,United States,contact@nonprofitorganization.org,Community Helpers,,Sarah Johnson,1234 Charity Lane,,555,Springfield
+CUST_00575,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Doe,1234 Innovation Drive,Suite 100,94107,San Francisco
+CUST_06118,United States,info@smallbusiness.com,Small Business Solutions,,John Doe,123 Business Ave,Suite 200,202,Washington
+CUST_05177,Brazil,john.doe@example.com,Educação do Futuro,John Doe,,"Avenida Paulista, 1578",,11,São Paulo
+CUST_00920,Germany,info@charity-org.de,Charity Organization GmbH,,Anna Schmidt,Musterstraße 12,,10115,Berlin
+CUST_01851,United Arab Emirates,contact@enterprisecompany.com,Enterprise Company LLC,,Ahmed Al Farsi,123 Business Center,Suite 456,04,Dubai
+CUST_00989,Australia,contact@nonprofit.org.au,Community Aid Australia,,Sarah Johnson,123 Charity Lane,Suite 4B,02,Sydney
+CUST_07368,Germany,janedoe@example.com,,Jane Doe,,Musterstraße 12,,10115,Berlin
+CUST_02766,United States,info@smallbusiness.com,Small Business Inc.,,John Doe,123 Main St,Suite 100,123,Springfield
+CUST_05471,Germany,julia.schmidt@university.edu,University of Berlin,Julia Schmidt,Prof. Hans Müller,Fritz Reuter Str. 25,"Building A, Room 101",10115,Berlin
+CUST_02065,Brazil,contact@enterprisecompany.com,Enterprise Company Ltd.,,Carlos Silva,"Avenida Paulista, 1578",Suite 300,11,São Paulo
+CUST_08062,Australia,john.doe@university.edu.au,Doe University,John Doe,Jane Smith,123 University Ave,"Building A, Room 101",02,Sydney
+CUST_08880,Australia,info@nonprofitorganisation.org.au,Non Profit Organisation,,Emily Johnson,123 Charity Lane,,02,Sydney
+CUST_03558,Brazil,contact@nonprofit.org.br,Non-Profit Organization Brazil,,Maria Silva,"Rua da Esperança, 123",Centro,11,São Paulo
+CUST_03396,Australia,johndoe@example.com,,John Doe,,123 Elm Street,,02,Sydney
+CUST_08258,Mexico,contact@smallbusiness.com,Small Business Solutions,,Juan Perez,123 Main St,Suite 200,55,Mexico City
+CUST_08709,United Arab Emirates,contact@enterprise-uae.com,Enterprise Solutions LLC,,Ahmed Al-Farsi,123 Business Bay,Suite 45A,04,Dubai
+CUST_01094,Brazil,info@nonprofitorganization.org,Non Profit Organization,Maria Silva,João Pereira,"Avenida Paulista, 1578",Suite 200,11,São Paulo
+CUST_03991,Germany,contact@techenterprise.de,Tech Enterprises GmbH,,Anna Schmidt,1234 Innovation Way,Suite 100,10115,Berlin
+CUST_03862,United Arab Emirates,contact@techsolutions.com,Tech Solutions LLC,,Ahmed Al-Farsi,123 Innovation Drive,Suite 456,04,Dubai
+CUST_02736,Germany,contact@smallbusiness.eu,Muster GmbH,,Max Mustermann,Berliner Straße 10,Suite 5A,10115,Berlin
+CUST_05957,Egypt,contact@techsolutions.com,Tech Solutions Ltd.,,Ahmed El-Sayed,123 Innovation St.,Suite 456,202,Cairo
+CUST_09775,United Arab Emirates,contact@enterprisecompany.com,Enterprise Solutions Ltd.,,Ahmed Al-Farsi,123 Business Bay,"Tower B, 5th Floor",04,Dubai
+CUST_08541,United States,contact@nonprofitorganization.org,Non-Profit Organization,,John Doe,123 Charity Lane,Suite 200,202,Washington
+CUST_05323,Germany,julia.meyer@university.edu,Berlin University,Julia Meyer,,"Main Campus, 123 University Ave","Building A, Room 456",10115,Berlin
+CUST_03484,Germany,contact@smallbusiness.de,Klein Unternehmen GmbH,,Hans Müller,Musterstraße 12,,10115,Berlin
+CUST_01212,United States,johndoe@example.com,,John Doe,,123 Main St,,90210,Beverly Hills
+CUST_09198,Brazil,maria.silva@educacao.com.br,Educação Brasil Ltda,Maria Silva,Maria Silva,"Rua das Acácias, 123",Apto 4B,11,São Paulo
+CUST_08451,Brazil,jose.silva@example.com,,José Silva,,"Rua das Flores, 123",,11,São Paulo
+CUST_05337,Germany,anna.muller@university.de,Tech University,Anna Muller,,123 University Street,,10115,Berlin
+CUST_02312,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Hans Müller,Friedrichstraße 123,Suite 456,10117,Berlin
+CUST_08741,United Arab Emirates,contact@smallbusinessuae.com,Small Business Corp,,Ahmed Al-Mansoori,123 Business Bay,Office 45B,971,Dubai
+CUST_04699,Australia,contact@nonprofit.org.au,Helping Hands,John Doe,Jane Smith,123 Charity Lane,Suite 5,02,Sydney
+CUST_00283,Australia,jane.smith@example.edu.au,Greenfield University,Jane Smith,Jane Smith,123 University Ave,"Building A, Room 101",02,Sydney
+CUST_04632,United Arab Emirates,contact@techsolutions.ae,Tech Solutions LLC,,Ahmed Al-Farsi,123 Innovation Road,Suite 456,02,Abu Dhabi
+CUST_05612,Brazil,contact@nonprofit.org.br,Instituto Esperança,,Maria Silva,"Rua da Esperança, 123",Centro,11,São Paulo
+CUST_01295,United States,contact@techenterprise.com,Tech Enterprise Inc.,,John Smith,123 Innovation Drive,Suite 400,90001,Los Angeles
+CUST_03788,Brazil,lucas.silva@example.com,,Lucas Silva,,"Rua das Flores, 123",Apt 45B,11,São Paulo
+CUST_01824,Germany,john.doe@example.com,,John Doe,,Musterstraße 123,,10115,Berlin
+CUST_02643,Australia,john.doe@example.com,,John Doe,,123 Main Street,,02,Sydney
+CUST_07634,United Arab Emirates,contact@nonprofitorganization.ae,Hope Foundation,,Amina Al-Farsi,123 Charity Way,Suite 456,02,Abu Dhabi
+CUST_07504,Germany,info@example.org,Green Future NGO,,Anna Müller,Hauptstraße 12,2nd Floor,10115,Berlin
+CUST_04026,Australia,info@nonprofitorganization.org.au,Non Profit Organization,,John Smith,456 Charity St.,,02,Sydney
+CUST_05511,Germany,john.doe@university.edu,University of Berlin,John Doe,Jane Smith,123 Academic St,Building A,10115,Berlin
+CUST_09649,United States,john.smith@university.edu,Smith University,,John Smith,123 University Ave,Suite 100,123,Los Angeles
+CUST_00682,United States,contact@nonprofitorganization.org,Non-Profit Organization,,John Doe,123 Charity Lane,Suite 100,202,Washington
+CUST_04158,United States,contact@techinnovations.com,Tech Innovations Inc.,,John Doe,1234 Innovation Way,Suite 500,94043,Mountain View
+CUST_09079,Australia,john.doe@example.com,,John Doe,,123 Elm Street,,02,Sydney
+CUST_07457,Germany,johanna.müller@university.edu,Bremen Institute of Technology,Johanna Müller,Johanna Müller,Am Fallturm 1,,28359,Bremen
+CUST_04676,Australia,contact@techinnovators.com.au,Tech Innovators Pty Ltd,,Michael Smith,123 Innovation Way,Suite 4B,02,Sydney
+CUST_05074,Australia,contact@techsolutions.com.au,Tech Solutions Pty Ltd,,Sarah Johnson,123 Innovation Drive,Suite 456,02,Sydney
+CUST_09670,United States,jane.doe@educationexample.com,Smithson School District,,Jane Doe,123 Education Way,Suite 200,555,Riverdale
+CUST_02033,United Arab Emirates,contact@businessuae.com,Tech Innovations LLC,,Ali Al-Farsi,123 Innovation Drive,Office 205,04,Dubai
+CUST_02014,Brazil,camila.silva@email.com,EduTech Solutions,,Camila Silva,"Av. Paulista, 1000",Apto 404,11,São Paulo
+CUST_04424,United States,contact@techinnovations.com,Tech Innovations Inc.,,John Doe,123 Innovation Way,Suite 400,94105,San Francisco
+CUST_08147,United States,jane.doe@example.edu,Springfield High School,Jane Doe,John Smith,123 Education Lane,Suite 100," Springfield, IL 62701",Springfield
+CUST_07857,United Arab Emirates,contact@nonprofituae.org,UAE Charity Organization,,Sara Al-Mansoori,123 Charity Way,,971,Dubai
+CUST_03216,Brazil,info@example.org,Green Earth Initiative,,Maria Silva,123 Eco Street,Suite 456,11,São Paulo
+CUST_05545,United Arab Emirates,contact@enterprisecompany.com,Enterprise Solutions LLC,,Ahmed Al-Farsi,123 Business Bay,Office 456,800,Dubai
+CUST_09315,Australia,john.smith@edu.au,Smith Academy,John Smith,John Smith,123 Education St,Building A,02,Sydney
+CUST_00079,United Arab Emirates,info@smallbusinessuae.com,Small Business UAE,,Ahmed Al-Mansoori,123 Business Bay,Office 45B,04,Dubai
+CUST_08896,Brazil,julia.silva@eduorganization.br,EduOrganization,,Julia Silva,"Rua dos Estudantes, 45",Centro,11,São Paulo
+CUST_03676,United States,contact@nonprofitorganization.org,Nonprofit Organization Inc.,,Jane Doe,123 Charity St,Suite 456,555,Metropolis
+CUST_00029,Egypt,ahmed.elhassan@education.com,Nile Academy,,Ahmed Elhassan,123 Nile Street,Building 45,20,Cairo
+CUST_00755,Australia,info@nonprofitorg.au,Non Profit Organization,,Sarah Johnson,45 Charity Road,,02,Sydney
+CUST_01461,United States,contact@nonprofitorganization.org,Helping Hands Non-Profit,,Alice Johnson,123 Charity Lane,Suite 200,202,Washington
+CUST_03072,Brazil,contact@smallbiz.com,Small Biz Solutions,,Ana Silva,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_02350,Australia,jane.doe@example.com,,Jane Doe,,123 Maple Street,,02,Sydney
+CUST_05797,United States,contact@enterprisecompany.com,Enterprise Company,,John Doe,123 Business Rd.,Suite 100,123,New York
+CUST_09605,United Arab Emirates,info@smallbusinessuae.com,Small Business UAE,,Fatima Al Mansoori,123 Business Bay,Suite 45A,04,Dubai
+CUST_08185,Germany,info@smallbusiness.de,Klein GmbH,,Hans Müller,Musterstraße 12,2.OG,10115,Berlin
+CUST_07958,United States,contact@techinnovators.com,Tech Innovators Inc.,,John Doe,1234 Innovation Drive,Suite 567,303,Denver
+CUST_02264,United Arab Emirates,jane.doe@education-uae.com,Future Learners Academy,,Jane Doe,123 Knowledge Street,Suite 4B,04,Dubai
+CUST_04976,United Arab Emirates,john.doe@example.com,,John Doe,,1234 Dubai Marina,,04,Dubai
+CUST_07493,United Arab Emirates,info@techsolutions.ae,Tech Solutions LLC,,Ali Al-Farsi,123 Innovation Drive,Suite 456,04,Dubai
+CUST_05661,Australia,contact@enterprisecompany.com,Enterprise Company,,John Doe,123 Business Rd,Suite 456,2000,Sydney
+CUST_05907,Brazil,maria.silva@educacao.com.br,EducaMais,Maria Silva,Maria Silva,"Rua dos Estudantes, 45",Sala 2A,11,São Paulo
+CUST_09747,Germany,info@nonprofitorganization.de,Non-Profit Organization GmbH,,Anna Müller,123 Charity Street,Suite 45,10115,Berlin
+CUST_08637,Germany,info@smallbusinessgmbh.de,Small Business GmbH,,Lukas Müller,Musterstraße 12,2nd Floor,10115,Berlin
+CUST_08107,Australia,contact@smallbiz.com.au,Small Business Solutions,,John Doe,123 Business St,Suite 456,02,Sydney
+CUST_06086,Australia,info@nonprofitorg.au,Non Profit Organization,,Emily Johnson,123 Charity Street,Suite 5B,02,Sydney
+CUST_00767,Germany,max.mustermann@example.com,Mustermann University,,Max Mustermann,123 University St.,,10115,Berlin
+CUST_05823,Australia,johndoe@example.com,,John Doe,,123 Main Street,,02,Sydney
+CUST_05960,United States,contact@smallbusiness.com,Small Business Inc.,,John Doe,123 Main St,Suite 456,555,New York
+CUST_08406,Brazil,contact@smallbusiness.com.br,Small Business Solutions,,Lucas Silva,"Av. Paulista, 1234",Suite 567,11,São Paulo
+CUST_00562,United States,john.doe@example.edu,Doe University,John Doe,Jane Smith,123 Education Lane,Suite 100,555,Springfield
+CUST_09038,Germany,info@nonprofitorganization.de,NonProfit Organisation e.V.,,Anna Schmidt,Musterstraße 12,2. Etage,10115,Berlin
+CUST_07263,Brazil,joaosilva@example.com,,João Silva,,"Avenida Paulista, 1578",Apto 302,11,São Paulo
+CUST_05276,Australia,contact@enterprisecompany.com,Enterprise Company Pty Ltd,,John Doe,123 Business Rd,Suite 456,02,Sydney
+CUST_01314,Australia,johndoe@example.com,,John Doe,,123 Smith St.,,02,Sydney
+CUST_06855,United Arab Emirates,contact@nonprofitorg.ae,Nonprofit Organization UAE,,Fatima Al Zahrani,123 Charity Avenue,Suite 5B,971,Dubai
+CUST_08810,Germany,contact@enterprise-example.com,Enterprise Solutions GmbH,,Max Müller,123 Business Park,Suite 456,10115,Berlin
+CUST_05610,Australia,jessica.taylor@example.com,Learning Hub Australia,Jessica Taylor,John Smith,123 Education St,Suite 4B,02,Sydney
+CUST_09456,United States,contact@enterprisecompany.com,Enterprise Solutions Inc.,,John Doe,123 Business Rd.,Suite 456,202,Washington
+CUST_00210,Brazil,contact@solutionenterprise.com,Solution Enterprise Ltd.,,Maria Silva,"Avenida Paulista, 1234",Suite 56A,11,São Paulo
+CUST_05194,Australia,john.doe@example.com,,John Doe,,123 Elm Street,,02,Sydney
+CUST_05989,Germany,info@nonprofitorg.de,NonProfit Organisation,,Anna Schmidt,Musterstraße 1,2nd Floor,10115,Berlin
+CUST_07938,United Arab Emirates,contact@techsolutions.ae,Tech Solutions LLC,,Mohammed Al-Farsi,123 Innovation Drive,Suite 456,971,Dubai
+CUST_03552,United States,john.doe@example.com,,John Doe,,123 Elm Street,Apt 4B,10001,New York
+CUST_01778,Germany,info@smallbusinessgmbh.de,Small Business GmbH,,Max Müller,Musterstrasse 1,,10115,Berlin
+CUST_09904,United States,john.doe@example.com,,John Doe,,123 Main St,,90210,Beverly Hills
+CUST_03846,Brazil,contact@smallbusiness.com.br,Small Business Ltda.,,Carlos Silva,"Rua das Flores, 123",Apto 45,11,São Paulo
+CUST_08074,United Arab Emirates,contact@enterpriseexmaple.com,Enterprise Solutions Inc.,,Ahmed Al-Mansoori,123 Business Bay,Office 45B,971,Dubai
+CUST_04152,United States,john.smith@example.com,,John Smith,,123 Elm Street,,90210,Beverly Hills
+CUST_08649,Germany,john.doe@school.edu,St. Peter's School,,John Doe,123 Education Ave,Building B,10115,Berlin
+CUST_03995,United States,jane.doe@eduinst.org,Education Institute,Jane Doe,Jane Doe,123 Learning St,Suite 100,555,Educational City
+CUST_01357,United Arab Emirates,contact@nonprofituae.org,UAE Charity Organization,,Ahmed Al-Farsi,123 Charity Street,Suite 4B,02,Abu Dhabi
+CUST_04071,Australia,contact@nonprofitorg.org.au,Non Profit Org,,Emily Smith,123 Charity Lane,Suite 456,02,Sydney
+CUST_02385,Germany,info@smallbizgermany.com,Small Biz Germany GmbH,,Hans Müller,Berliner Allee 123,,40212,Düsseldorf
+CUST_03549,United States,contact@nonprofitorganization.org,Non Profit Organization,,Jane Doe,123 Charity St,Suite 100,555,San Francisco
+CUST_03516,Australia,info@communitysupport.org.au,Community Support Network,,Sarah Johnson,123 Helping Hands St,,02,Sydney
+CUST_02804,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,João Silva,"Avenida Paulista, 1578",Sala 1201,11,São Paulo
+CUST_07214,Germany,john.doe@university.edu,Tech University,John Doe,Sarah Smith,123 Education Blvd,Campus Area,10115,Berlin
+CUST_09851,United States,contact@nonprofitorganization.org,Non Profit Organization,,John Doe,123 Charity St,Suite 100,123,Springfield
+CUST_08102,Australia,contact@techsolutions.com.au,Tech Solutions Pty Ltd,,John Smith,123 Tech Street,Suite 456,02,Sydney
+CUST_02363,Brazil,contact@enterprisecompany.com,Enterprise Company Ltd.,,Maria Silva,"Av. Paulista, 1000",Suite 200,11,São Paulo
+CUST_09064,United States,contact@techenterprise.com,Tech Enterprises LLC,,John Smith,123 Innovation Drive,Suite 200,580,Oklahoma City
+CUST_02740,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Doe,1234 Innovation Drive,Suite 100,303,Denver
+CUST_08729,Brazil,maria.silva@example.com,,Maria Silva,,"Rua das Flores, 123",Apto 45B,11,São Paulo
+CUST_07870,Germany,contact@berlintech.com,Berlin Tech Solutions,,Lisa Müller,Friedrichstraße 200,Suite 5A,10117,Berlin
+CUST_06949,Egypt,ahmed.elhusseini@school.edu.eg,Cairo International School,,Ahmed El Husseini,123 Nile St.,,02,Cairo
+CUST_00573,Brazil,joaosilva@example.com,,João Silva,,123 Avenida Paulista,,11,São Paulo
+CUST_09820,Australia,info@smallbusiness.com.au,Small Business Co.,,Jane Doe,123 Business St,Suite 100,02,Sydney
+CUST_08129,Australia,jane.doe@example.com,,Jane Doe,,123 Main St,,02,Sydney
+CUST_07321,Brazil,contact@enterprisecompany.com,Enterprise Company Ltd.,,Lucas Silva,"Avenida Paulista, 1578",3rd Floor,11,São Paulo
+CUST_01080,United States,john.doe@example.edu,Springfield University,John Doe,Jane Smith,123 College Ave,Suite 200,62701,Springfield
+CUST_07234,Egypt,contact@nonprofit.org.eg,Non Profit Organization,,Ahmed El-Sayed,123 Charity St.,"Building 5, 2nd Floor",20,Cairo
+CUST_09600,United States,contact@smallbusiness.com,Small Business Corp.,,John Doe,123 Business Lane,Suite 100,555,Springfield
+CUST_02856,Australia,contact@nonprofitorg.au,Australian Non-Profit Organization,,John Smith,123 Charity Lane,Suite 2B,02,Sydney
+CUST_02935,United Arab Emirates,contact@techenterprise.ae,Tech Enterprise Solutions,,Ahmed Al-Farsi,123 Innovation Drive,Suite 45B,04,Dubai
+CUST_02099,Australia,info@smallbiz.com.au,Small Biz Solutions,,John Doe,123 Business St,Suite 101,02,Sydney
+CUST_03058,United States,info@examplebusiness.com,Example Business LLC,,John Doe,123 Business Rd,Suite 100,12345,Business City
+CUST_06844,Brazil,contact@mymedicalsupplies.com.br,Meu Suprimento Médico,,Luciana Silva,"Av. do Brasil, 123",Sala 402,11,São Paulo
+CUST_05258,United States,john.doe@example.com,Greenwood High School,,John Doe,1234 Education Way,Suite 100,555,Springfield
+CUST_02887,United States,contact@smallbusiness.com,Small Business LLC,,John Doe,123 Main St,Suite 100,303,Denver
+CUST_00790,United Arab Emirates,contact@nonprofitorg.ae,Helping Hands Foundation,,Fatima Al-Mansoori,123 Charity St.,Suite 200,04,Dubai
+CUST_07960,United States,jane.doe@example.com,,Jane Doe,,123 Elm Street,,90210,Beverly Hills
+CUST_01309,Germany,info@smallbizgmbh.com,Small Biz GmbH,,Hans Müller,Berliner Str. 123,2nd Floor,10115,Berlin
+CUST_04481,Australia,john.doe@university.edu.au,University of Technology,,John Doe,101 Harris Street,Level 4,02,Sydney
+CUST_06729,Brazil,contact@smallbusiness.com.br,Small Business Ltda.,,Maria Silva,"Rua das Flores, 123",Apt 4B,11,São Paulo
+CUST_03239,Brazil,contact@smallbiz.com,Small Biz Solutions,,Maria Silva,"Rua das Flores, 123",Suite 10B,11,São Paulo
+CUST_03197,United Arab Emirates,info@smallbusiness.ae,Small Business LLC,,Ahmed Al-Farsi,123 Business Road,Suite 456,04,Dubai
+CUST_09720,Germany,john.doe@example.com,,John Doe,,123 Main Street,,10115,Berlin
+CUST_03065,Egypt,info@nonprofitorg.eg,Nonprofit Organization for Education,,Fatima Ahmed,123 Charity St.,Suite 456,02,Cairo
+CUST_05191,Brazil,student@example.com,,Ana Silva,,"Rua das Flores, 123",,11,São Paulo
+CUST_04678,United Arab Emirates,contact@techsolutionsuae.com,Tech Solutions UAE,,Ahmed Al-Farsi,123 Innovation Road,Suite 5B,02,Abu Dhabi
+CUST_04542,United States,john.doe@example.com,,John Doe,,123 Main St,,10001,New York
+CUST_07233,United States,contact@innovatecorp.com,Innovate Corp,,John Doe,123 Innovation Drive,Suite 400,90210,Beverly Hills
+CUST_09482,Brazil,jose.silva@example.com,,José Silva,,"Rua da Amizade, 45",Apto 302,55,São Paulo
+CUST_02957,Brazil,contact@smallbusinesslatam.com,Small Business LATAM,,Maria Silva,"Avenida Paulista, 1578",Suite 301,11,São Paulo
+CUST_02757,Egypt,contact@nonprofitorg.eg,Non-Profit Organization,,Ahmed El-Sayed,123 Charity St,"Building 5, Floor 3",0020,Cairo
+CUST_09174,United Arab Emirates,contact@techsolutions.ae,Tech Solutions LLC,,Ahmed Al-Mansoori,123 Innovation Drive,Suite 456,02,Abu Dhabi
+CUST_09973,United Arab Emirates,john.doe@educationhub.ae,Education Hub,John Doe,Jane Smith,123 Knowledge Lane,Suite 456,04,Dubai
+CUST_07613,Australia,john.doe@educationinstitution.edu.au,Sunshine High School,,John Doe,123 Education St,"Building A, Room 101",02,Sydney
+CUST_04048,United States,contact@nonprofitorganization.org,Hope for Tomorrow,,Jane Doe,123 Main St,Suite 100,202,Washington
+CUST_06669,Australia,john.doe@example.com,,John Doe,,123 Main Street,Apt 4B,02,Sydney
+CUST_04923,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,Maria Silva,"Rua das Flores, 123",Apt 45,11,São Paulo
+CUST_01156,Brazil,contact@nonprofit.org.br,Nonprofit Org Brazil,,Maria Silva,"Avenida Paulista, 1578",Suite 302,11,São Paulo
+CUST_05405,United Arab Emirates,john.doe@example.com,,John Doe,,1234 Maple Street,,971,Dubai
+CUST_08445,United States,,Community Care Non-Profit,,Jessica Green,1452 Hope Avenue,,12345,Springfield
+CUST_02569,Singapore,contact@techsolutions.sg,Tech Solutions Pte Ltd,,John Tan,123 Tech Street,Suite 456,639,Singapore
+CUST_00077,Australia,contact@nonprofit.org.au,Helping Hands Non-Profit,,Sarah Thompson,123 Community St,Suite 4B,02,Sydney
+CUST_07326,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,Maria Silva,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_07632,Australia,info@nonprofitorg.org.au,Helping Hands Charity,,Sarah Johnson,123 Charity Lane,Suite 4B,02,Sydney
+CUST_02652,Brazil,jose.silva@example.com,,Jose Silva,,"Rua das Flores, 123",Apt 45B,11,São Paulo
+CUST_02297,Brazil,info@communityhealth.org.br,Community Health Initiative,,Maria Silva,"Rua das Flores, 123",Suite 4B,11,São Paulo
+CUST_05986,Brazil,contact@nonprofitorganization.org,Non Profit Organization,,Maria Silva,"Rua da Alegria, 100",Apt 202,11,São Paulo
+CUST_09938,United Arab Emirates,info@smallbusiness.ae,Innovative Solutions LLC,,Ahmed Al-Farsi,123 Business Bay,Suite 456,971,Dubai
+CUST_04367,United States,info@nonprofitorg.org,NonProfit Organization,,Jane Doe,123 Charity Lane,Suite 100,123,Springfield
+CUST_07191,Australia,john.doe@example.edu.au,ABC University,,John Doe,123 University Ave,Suite 456,02,Sydney
+CUST_00653,Brazil,contact@smallbizexample.com,Small Biz Example Ltda.,,Carlos Silva,"Avenida Paulista, 1578",Suite 1201,11,São Paulo
+CUST_09581,Germany,contact@smallbusinessger.com,Small Business GmbH,,Max Müller,Berliner Str. 45,Suite 7B,10115,Berlin
+CUST_06450,United States,contact@smallbusiness.com,Small Business LLC,,John Doe,123 Main St,Suite 200,303,Denver
+CUST_08809,Brazil,julio.silva@example.com,,Julio Silva,,"Rua da Liberdade, 123",Apto 45B,11,São Paulo
+CUST_04954,Brazil,contact@enterprisecompany.com,Enterprise Solutions Ltd.,,Carlos Silva,"Avenida Paulista, 1578",Suite 200,11,São Paulo
+CUST_03400,Germany,info@smallbusinessgmbh.de,Small Business GmbH,,Max Müller,Hauptstraße 1,2. Etage,10115,Berlin
+CUST_09408,United States,john.doe@example.com,,John Doe,,123 Main St,,90210,Beverly Hills
+CUST_03004,United Arab Emirates,contact@nonprofitorganization.ae,Helping Hands Foundation,,Amina Al-Farsi,123 Charity St,Suite 2B,02,Abu Dhabi
+CUST_03654,Brazil,maria.silva@email.com,Educação Criativa,Maria Silva,Maria Silva,"Avenida Paulista, 1000",Ap 101,+55 11,São Paulo
+CUST_07690,Germany,info@charity-org.de,Charity Organization,,Anna Müller,Musterstraße 10,2nd Floor,10115,Berlin
+CUST_01775,Australia,info@nonprofitorg.au,Nonprofit Organization Ltd,,Jane Doe,123 Nonprofit Ln,Suite 100,02,Sydney
+CUST_08470,Singapore,contact@enterpriseexample.com,Enterprise Solutions Pte Ltd,,John Lim,123 Innovation Road,Unit 5B,639,Singapore
+CUST_09450,Germany,contact@bigenterprise.de,Big Enterprise GmbH,,Hans Müller,Berliner Str. 45,2nd Floor,10115,Berlin
+CUST_03874,Germany,contact@nonprofitgermany.org,German Nonprofit Initiative,,Anna Müller,Strasse des 17. Juni 135,Berlin Mitte,10115,Berlin
+CUST_00482,Germany,info@nonprofitorg.de,Nonprofit Organization,,Max Müller,Berliner Straße 15,,10178,Berlin
+CUST_04019,United Arab Emirates,student123@school.edu.ae,Al-Falah Academy,Fatima Al-Dhaheri,Ahmed Saeed,123 Education Street,"Building 5, Block A",971,Dubai
+CUST_09267,United Arab Emirates,contact@nonprofitorg.ae,Helping Hands Foundation,,Ahmed Al-Mansoori,123 Charity Lane,Suite 4B,02,Abu Dhabi
+CUST_09796,United States,contact@nonprofitorganization.org,Non Profit Organization,,John Doe,123 Charity Lane,,555,Atlanta
+CUST_08904,Australia,info@smallbusiness.com.au,Small Business Co.,,John Doe,123 Business St,Suite 4B,02,Sydney
+CUST_05770,Brazil,contact@techinnovations.com,Tech Innovations Ltd.,,Maria Silva,"Rua da Inovação, 123","Sala 45, Edifício Prime",11,São Paulo
+CUST_07728,United Arab Emirates,john.doe@example.com,,John Doe,,123 Palm Avenue,,04,Dubai
+CUST_09229,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,Ana Silva,"Rua das Flores, 123",Apto 45,11,São Paulo
+CUST_03082,Germany,anna.miller@example.com,Berliner Bildungseinrichtungen,,Anna Miller,Hauptstraße 45,,10115,Berlin
+CUST_05831,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Johann Schmidt,Berliner Str. 45,Office 7B,10115,Berlin
+CUST_04491,Australia,contact@techsolutions.com.au,Tech Solutions Pty Ltd,,John Doe,123 Innovation Dr,Suite 4B,02,Sydney
+CUST_04301,United Arab Emirates,info@nonprofitorganization.ae,Non-Profit Organization,,Amina Al-Mansouri,45 Park Avenue,Suite 7B,971,Dubai
+CUST_02986,Germany,student@example.edu,,Max Müller,,Musterstraße 1,,10115,Berlin
+CUST_09633,United States,contact@techsolvers.com,Tech Solvers Inc.,,Alice Johnson,123 Tech Park,Suite 400,94043,Mountain View
+CUST_05721,United Arab Emirates,johndoe@example.com,,John Doe,,123 Palm Street,,04,Dubai
+CUST_09582,Australia,john.doe@example.com,,John Doe,,123 Main Street,,02,Sydney
+CUST_01194,Germany,info@smallbusiness.de,Kleinunternehmen GmbH,,Max Müller,Berliner Str. 45,2nd Floor,10115,Berlin
+CUST_00713,Australia,info@nonprofitorg.au,Nonprofit Organization,,Sarah Johnson,123 Charity St,Suite 4,02,Sydney
+CUST_06958,Germany,info@university-example.edu,University Example,,Dr. Anna Schmidt,123 Academic Road,Building B,10115,Berlin
+CUST_04569,Brazil,contact@nonprofit.org.br,Future Generations,,Maria Souza,123 Hope Street,,11,São Paulo
+CUST_01579,Germany,contact@nonprofit.org,Helping Hands Foundation,,Anna Schmidt,Musterstrasse 123,2nd Floor,10117,Berlin
+CUST_06605,Brazil,contact@enterprisecompany.com,Enterprise Company Ltda.,,Lucas Oliveira,"Avenida Paulista, 1578",Suite 1234,11,São Paulo
+CUST_02023,United States,contact@nonprofit.org,Helping Hands Charity,,Jane Doe,123 Charity Lane,Suite 100,555,Springfield
+CUST_07346,Australia,jane.doe@university.edu.au,University of Learning,Jane Doe,John Smith,123 Education St,Building A,02,Sydney
+CUST_02667,Germany,contact@techinnovators.de,Tech Innovators GmbH,,Hans Müller,Schillerstraße 21,2nd Floor,10115,Berlin
+CUST_09157,Germany,max.muster@example.com,Max Muster Academy,Max Muster,Max Muster,Musterstraße 1,2nd Floor,10115,Berlin
+CUST_02581,Australia,contact@nonprofitorganization.org.au,Helping Hands Non-Profit,Sarah Johnson,Michael Smith,123 Charity Way,,02,Sydney
+CUST_01075,Australia,alice.johnson@example.edu.au,Sydney University,Alice Johnson,Alice Johnson,123 University St,Campus Area,02,Sydney
+CUST_04609,Brazil,jose.silva@example.com,,José Silva,,123 Avenida Brasil,Apartment 45B,11,São Paulo
+CUST_06130,United States,info@smallbusiness.com,Small Business Co.,,John Doe,123 Business Ave,Suite 100,305,Miami
+CUST_05242,United States,info@smallbusiness.com,Small Business Co.,,John Doe,1234 Market St,Suite 100,94103,San Francisco
+CUST_06001,Australia,info@smallbusiness.com.au,Small Business Solutions Pty Ltd,,Emma Johnson,123 Business St,Suite 4B,02,Sydney
+CUST_04660,Brazil,contact@enterpriseco-brazil.com,Enterprise Co. Brazil,,Maria Silva,"Av. São João, 1234",Suite 567,11,São Paulo
+CUST_02751,Brazil,maria.silva@example.com,,Maria Silva,,"Rua das Flores, 123",Apt 45,11,São Paulo
+CUST_07805,Germany,example.user@gmail.com,,Max Mustermann,,Musterstraße 1,,10115,Berlin
+CUST_01185,Brazil,joaosilva@example.com,,João Silva,,"Rua das Flores, 123",,11,São Paulo
+CUST_02889,United Arab Emirates,john.doe@university.edu.ae,University of Innovation,John Doe,Jane Smith,123 Educational St,Suite 456,971,Dubai
+CUST_04504,Germany,contact@nonprofit-organization.de,Hope for Tomorrow,,Anna Müller,123 Charity Street,Suite 456,10115,Berlin
+CUST_04263,Brazil,contact@enterprisecompany.com,Enterprise Company Ltd.,,Maria Silva,"Avenida Paulista, 1000",Suite 200,11,São Paulo
+CUST_02577,Brazil,contact@enterpriseexample.com,Enterprise Example Ltda,,Ana Silva,"Av. Paulista, 1000",Suite 200,11,São Paulo
+CUST_00633,Germany,info@smallbizger.com,Small Biz Germany,,Anna Müller,Friedrichstraße 100,Suite 200,10117,Berlin
+CUST_03083,United Arab Emirates,contact@techsolutions.ae,Tech Solutions LLC,,Ahmed Al-Farsi,124 Business Bay,Office 45B,04,Dubai
+CUST_02240,United Arab Emirates,contact@innovatech.ae,Innovatech Solutions,,Sarah Al-Fahim,123 Innovation Tower,Business Bay,04,Dubai
+CUST_06153,Australia,john.doe@example.com,,John Doe,,123 Example St,Unit 4B,02,Sydney
+CUST_08635,Australia,john.doe@university.edu.au,University of Sydney,John Doe,,"Camperdown Campus, Science Road",Building A,02,Sydney
+CUST_03410,United Arab Emirates,john.doe@example.com,,John Doe,,123 Sheikh Zayed Road,,04,Dubai
+CUST_02485,Australia,john.doe@educationaustralia.edu.au,Education Australia,John Doe,Jane Smith,123 Learning Lane,Suite 456,02,Sydney
+CUST_06840,Germany,anna.schmidt@education.org,Educational Innovations GmbH,,Anna Schmidt,Berliner Str. 45,,10178,Berlin
+CUST_06183,Brazil,jose.silva@example.com,Instituto Educacional do Brasil,José Silva,Mariana Costa,"Av. Paulista, 1578",4º andar,11,São Paulo
+CUST_07063,Australia,johndoe@example.com,,John Doe,,123 Main Street,,3000,Melbourne
+CUST_03684,Brazil,contact@nonprofit.org.br,Amigos do Planeta,,Maria Silva,"Rua da Alegria, 45",Centro,11,São Paulo
+CUST_06404,United Arab Emirates,contact@smallbusinessae.com,Small Business AE,,Ahmed Al-Farsi,123 Business Bay,Suite 456,04,Dubai
+CUST_06035,United Arab Emirates,contact@techfirm.ae,Tech Innovations LLC,,Amina Al Farsi,123 Business Bay,"Floor 5, Suite 501",04,Dubai
+CUST_00154,Germany,max.muster@example.com,,Max Muster,,Musterstraße 12,,10115,Berlin
+CUST_08734,Brazil,jose.silva@example.com,,Jose Silva,,"Rua das Flores, 123",Apto 45,11,São Paulo
+CUST_04239,Germany,john.doe@university.edu,Berlin University,John Doe,,123 University Ave,Building A,10115,Berlin
+CUST_03524,United States,contact@nonprofitorg.org,Nonprofit Organization,,John Smith,123 Charity St,Suite 100,202,Washington
+CUST_03886,United Arab Emirates,info@educationuae.com,Education UAE,,,123 Knowledge Avenue,Suite 456,02,Abu Dhabi
+CUST_04115,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Max Müller,Brunnenstraße 15,Suite 123,10115,Berlin
+CUST_06251,Germany,contact@nonprofitorganization.org,Non-Profit Organization,,Hans Müller,Musterstraße 12,,10115,Berlin
+CUST_04636,United Arab Emirates,contact@smallbusiness.ae,Small Business Solutions Ltd.,,Ahmed Al-Farsi,123 Business Bay,Suite 456,800,Dubai
+CUST_04980,Australia,contact@nonprofit.org.au,Helping Hands Non-Profit,,Emily Johnson,23 Charity St,Suite 4B,02,Sydney
+CUST_02759,Brazil,contact@nonprofitbrazil.org,Non-Profit Brazil,,Maria Silva,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_08752,Brazil,contact@enterprisecompany.com,Enterprise Company Ltd,,Ana Silva,"Avenida Paulista, 1000",Suite 200,11,São Paulo
+CUST_02329,Australia,contact@enterprisecompany.com,Enterprise Company,,John Doe,123 Business Rd,Suite 5A,02,Sydney
+CUST_09597,Australia,contact@techsolutions.com.au,Tech Solutions Pty Ltd,,Sarah Johnson,123 Innovation Drive,Suite 5B,02,Sydney
+CUST_05264,Australia,info@nonprofitorg.au,Non Profit Organization,,Emily Johnson,123 Charity Lane,"Building A, Suite 5",02,Sydney
+CUST_04081,United Arab Emirates,info@techsolutions.ae,Tech Solutions LLC,,Ali Al-Mansoori,123 Innovation Road,Downtown Business Center,971,Dubai
+CUST_06674,Brazil,contact@nonprofitbrazil.org,Non-Profit Brazil,,Maria Silva,"Avenida Paulista, 1000",Suite 200,11,São Paulo
+CUST_06740,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Hans Müller,Musterstraße 10,2. Stock,10115,Berlin
+CUST_01742,Brazil,contact@smallbusiness.com.br,Small Business Ltda,,Carlos Silva,"Avenida Paulista, 1234",Suite 567,11,São Paulo
+CUST_01392,United States,contact@smallbizinc.com,Small Biz Inc.,,John Doe,1234 Elm St,Suite 567,555,Springfield
+CUST_06508,Brazil,contact@nonprofit.org.br,Instituto de Apoio,,Maria Silva,"Rua das Flores, 123",Sala 45,11,São Paulo
+CUST_05230,United States,john.doe@example.com,Example University,John Doe,Jane Smith,123 College Ave,,123,Springfield
+CUST_07373,United Arab Emirates,john.doe@uaeedu.com,UAE Institute of Technology,,John Doe,123 Education Way,"Building A, 3rd Floor",971,Abu Dhabi
+CUST_08052,Brazil,contact@smallbiz.com,Small Biz Solutions,,Maria Silva,"Av. Paulista, 1578",Suite 1203,11,São Paulo
+CUST_03031,Australia,jane.doe@university.edu.au,University of Sydney,Jane Doe,,200 Camperdown Rd,"Building A, Room 101",02,Sydney
+CUST_03110,United Arab Emirates,info@educationalsolutions.ae,Educational Solutions,,Ahmed Al-Mansoori,123 Knowledge Avenue,Suite 45,971,Dubai
+CUST_06540,United Arab Emirates,ahmed.alvarez@example.com,,Ahmed Alvarez,,123 Dubai Marina,"Building 7, Apartment 15",04,Dubai
+CUST_08660,Germany,info@university-example.de,University of Example,John Doe,Dr. Anna Schmidt,123 University St.,Building A,10115,Berlin
+CUST_08656,United Arab Emirates,info@educationuae.com,Education UAE,,,123 Knowledge Street,Suite 456,971,Dubai
+CUST_01427,United Arab Emirates,contact@smallbizuae.com,Small Biz UAE,,Aisha Al-Farsi,123 Business Bay,Office 45B,02,Abu Dhabi
+CUST_08954,Australia,johndoe@example.com,,John Doe,,123 Main St,Apt 4B,02,Sydney
+CUST_06554,Singapore,info@smallbusiness.sg,Tech Innovations Pte Ltd,,Anna Lee,123 Tech Park,"Level 2, Suite 5",65,Singapore
+CUST_01913,Germany,info@charitygermany.org,Charity Germany e.V.,,Hans Müller,Musterstraße 12,2. Etage,10115,Berlin
+CUST_01418,Germany,contact@techstartup.de,Tech Startup GmbH,,Maximilian Müller,Friedrichstraße 123,Floor 2,10117,Berlin
+CUST_06338,United States,contact@nonprofit.org,Helping Hands Organization,,Emily Johnson,123 Charity Lane,,555,San Francisco
+CUST_02723,United Arab Emirates,contact@smallbusinessuae.com,Small Business UAE,,Ahmed Al-Mansoori,123 Business Bay,,04,Dubai
+CUST_06173,United States,contact@smallbusiness.com,Small Business Inc.,,John Doe,123 Main St,Suite 100,555,Los Angeles
+CUST_08665,United States,contact@bigcorp.com,BigCorp Inc.,,John Doe,123 Corporate Blvd,Suite 400,202,Washington
+CUST_03186,United States,johndoe@example.com,,John Doe,,123 Main St,Apt 4B,10001,New York
+CUST_00761,United Arab Emirates,john.doe@example.com,,John Doe,,1234 Palm Street,Apartment 567,971,Dubai
+CUST_01831,United Arab Emirates,john.doe@example.com,,John Doe,,1234 Elm Street,Apartment 56B,971,Dubai
+CUST_00145,United Arab Emirates,info@educationalinstitute.ae,Educational Institute,,Dr. Amina Al Farsi,123 Knowledge Street,"Building 5, Suite 10",04,Dubai
+CUST_03938,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Doe,1234 Innovation Drive,Suite 200,94103,San Francisco
+CUST_05939,Australia,contact@enterprisetech.com.au,Enterprise Tech Solutions,,Jane Doe,123 Innovation Drive,Suite 100,02,Sydney
+CUST_04932,United Arab Emirates,contact@smallbusinessuae.com,Small Business UAE,,Ahmed Al-Mansoori,101 Business Bay,Office 202,04,Dubai
+CUST_05742,Brazil,contact@nonprofitorg.br,Nonprofit Organization Brasil,,Maria Silva,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_04693,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Hans Müller,Berliner Strasse 45,,10115,Berlin
+CUST_06402,United Arab Emirates,contact@businesssolutions.ae,Business Solutions LLC,,Amina Al-Farsi,123 Business Center,Office 456,04,Dubai
+CUST_01661,Germany,info@smallbusiness.com,Small Business Solutions GmbH,,Max Müller,Musterstraße 12,1st Floor,10115,Berlin
+CUST_06066,Germany,contact@innovatech.com,Innovatech Solutions GmbH,,Hans Müller,123 Innovation Avenue,Suite 456,10115,Berlin
+CUST_01390,Australia,john.doe@example.com,,John Doe,,123 Sydney St,,02,Sydney
+CUST_00443,United Arab Emirates,contact@smallbusiness.ae,Innovative Solutions LLC,,Ahmed Al-Mansoori,123 Business Bay,Office 456,04,Dubai
+CUST_02940,United Arab Emirates,customer02940@example.com,,Omar Al-Farsi,,123 Sheikh Zayed Road,Apartment 45B,971,Dubai
+CUST_07384,Germany,john.doe@educationexample.com,Education Solutions GmbH,,John Doe,Musterstraße 123,,10115,Berlin
+CUST_05154,Australia,contact@smallbusiness.com.au,Small Business Co,,John Doe,123 Business Ave,Suite 4B,02,Sydney
+CUST_04847,Germany,john.doe@university.edu,Technische Universität München,John Doe,John Doe,Arcisstraße 21,,80333,Munich
+CUST_07237,Brazil,jose.silva@university.edu.br,Universidade do Brasil,Jose Silva,Maria Oliveira,"Rua da Educação, 123","Edificio A, Sala 45",21,Rio de Janeiro
+CUST_04995,Brazil,contact@nonprofitorg.org,Nonprofit Organization,,Maria Silva,"Rua da Paz, 123",Centro,11,São Paulo
+CUST_09863,United Arab Emirates,john.doe@uniedu.ae,United Education Institute,,John Doe,123 Knowledge Ave,"Building 45, Sector B",02,Abu Dhabi
+CUST_02508,Brazil,jose.silva@educationmail.com,Instituto Educacional do Brasil,Jose Silva,Maria Oliveira,"Rua das Flores, 123",Apt 4B,11,São Paulo
+CUST_08522,Brazil,julia.silva@gmail.com,Educação Avançada Ltda,Julia Silva,Julia Silva,"Rua das Flores, 123",Apto 45,11,São Paulo
+CUST_03709,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Doe,1234 Innovation Drive,Suite 200,94103,San Francisco
+CUST_01788,Australia,info@nonprofitorg.au,NonProfit Org,,Jane Doe,123 Charity St,Suite 456,02,Sydney
+CUST_00662,Brazil,jose.santos@educator.com.br,Educator Solutions,,José Santos,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_02170,United States,john.doe@example.com,,John Doe,,123 Main St,,90210,Beverly Hills
+CUST_00072,Brazil,jose.silva@example.com,,José Silva,,"Rua das Flores, 123",Apt 45,11,São Paulo
+CUST_07566,United States,contact@nonprofitexample.org,Non-Profit Example Organization,,Jane Doe,123 Charity St,Suite 200,202,Washington
+CUST_02512,Germany,contact@businessexample.com,Business Example GmbH,,Hans Müller,Berliner Str. 20,Near the main square,10115,Berlin
+CUST_00256,Australia,john.doe@example.com,,John Doe,,123 Maple Street,,02,Sydney
+CUST_00592,Australia,contact@smallbusiness.com.au,Small Business Co.,,James Smith,123 Business St,Suite 456,02,Sydney
+CUST_02846,United Arab Emirates,ahmed.almeida@example.com,,Ahmed Almeida,,123 Sheikh Zayed Road,Downtown,971,Dubai
+CUST_05592,Brazil,jose.silva@educationbrasil.com,Educação Brasil,José Silva,José Silva,"Rua da Educação, 123",Sala 45,11,São Paulo
+CUST_02925,Australia,jane.doe@example.com,,Jane Doe,,123 Main St,Unit 4B,02,Sydney
+CUST_05557,Germany,info@nonprofitexample.org,Nonprofit Example Organization,,Anna Müller,Hauptstraße 1,,10115,Berlin
+CUST_05316,United Arab Emirates,john.doe@example.com,,John Doe,,1234 Palm Street,,971,Dubai
+CUST_02985,Germany,info@techsolutions.de,Tech Solutions GmbH,,Hans Müller,Musterstraße 10,,10115,Berlin
+CUST_00589,Australia,contact@smallbusiness.com.au,Small Business Co.,,John Doe,123 Business Lane,Suite 5B,02,Sydney
+CUST_09444,Brazil,john.doe@example.com,,John Doe,,123 Main St,Apt 456,11,São Paulo
+CUST_05038,Germany,johndoe@example.com,,John Doe,,123 Main Street,,10115,Berlin
+CUST_09272,Germany,janedoe@example.com,,Jane Doe,,123 Maple Street,,10115,Berlin
+CUST_03854,Australia,contact@nonprofitorganization.org.au,Non-Profit Organization,,Alice Smith,123 Charity Lane,,02,Sydney
+CUST_06928,Egypt,ahmed.elsayed@education.com,International Education Institute,,Ahmed Elsayed,123 Education St,"Building 2, Floor 3",0020,Cairo
+CUST_00541,Brazil,contact@nonprofitbr.org,Non Profit Brasil,,Maria Silva,"Avenida Paulista, 1578",Suite 301,11,São Paulo
+CUST_08681,United States,info@smallbiz.com,Small Business Solutions LLC,,Jane Doe,123 Business Rd,Suite 100,555,Springfield
+CUST_06488,United Arab Emirates,example.customer@domain.com,,Aisha Al-Farsi,,123 Emirate St.,Downtown,971,Dubai
+CUST_08379,Germany,info@university-example.de,University Example,Max Müller,Dr. Anna Schmidt,123 University St.,Building B,10115,Berlin
+CUST_00574,Australia,contact@enterpriseaustralia.com,Enterprise Australia,,John Doe,123 Main Street,Suite 456,02,Sydney
+CUST_08847,Australia,contact@bigenterprise.com.au,Big Enterprise Pty Ltd,,John Doe,123 Corporate Ave,Suite 4B,02,Sydney
+CUST_03933,United States,contact@smallbiz.com,Small Biz Solutions,,John Doe,1234 Business Rd,Suite 100,303,Denver
+CUST_08501,United States,contact@nonprofitorganization.org,Nonprofit Organization,,John Doe,123 Charity Lane,,202,Washington
+CUST_06876,Germany,info@smallbusiness.com,Small Business Solutions GmbH,,Anna Schmidt,Berliner Str. 45,1st Floor,10115,Berlin
+CUST_02501,Germany,contact@techsolutions.eu,Tech Solutions GmbH,,Anna Müller,123 Innovation Drive,Suite 456,10115,Berlin
+CUST_08599,Australia,contact@nonprofitorganization.org.au,Nonprofit Organization,,John Doe,123 Charity St,Suite 2B,02,Sydney
+CUST_00331,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Johann Schmidt,123 Tech Street,Suite 4B,10115,Berlin
+CUST_02612,Germany,info@nonprofitorg.de,NonProfit Organization GmbH,,Anna Müller,Berliner Straße 45,,10115,Berlin
+CUST_05357,United States,contact@enterprisecompany.com,Enterprise Solutions Inc.,,John Smith,123 Business Rd,Suite 100,303,Denver
+CUST_05133,United Arab Emirates,contact@charityorg.ae,Charity Organization,,Ali Al-Mansoori,123 Charity Street,Suite 456,04,Dubai
+CUST_01817,United States,john.doe@example.com,,John Doe,,123 Elm Street,,90210,Beverly Hills
+CUST_04360,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Doe,1234 Innovation Drive,Suite 100,90210,Beverly Hills
+CUST_01335,Germany,info@nonprofit.org,Helping Hands Association,,Anna Müller,Berliner Str. 15,2nd Floor,10115,Berlin
+CUST_05675,Australia,contact@solutionscorp.com.au,Solutions Corporation,,John Smith,123 Innovation Drive,Suite 456,02,Sydney
+CUST_05802,United Arab Emirates,contact@businessabudhabi.ae,Business Abu Dhabi LLC,,Sarah Al-Farsi,1234 Business Bay Road,Suite 101,02,Abu Dhabi
+CUST_00977,Australia,contact@nonprofit.org.au,Helping Hands Foundation,,Jane Doe,123 Charity Ave,Suite 10,02,Sydney
+CUST_05544,Australia,info@smallbiz.com.au,Small Biz Pty Ltd,,John Doe,123 Business St,Suite 4B,02,Sydney
+CUST_03440,USA,contact@nonprofitorganization.org,Nonprofit Organization,,Alice Smith,123 Charity Lane,Suite 4B,202,Washington
+CUST_03066,Brazil,ana.silva@example.com,Educação Futuro,Ana Silva,Ana Silva,"Rua das Acácias, 250",Apt 12B,11,São Paulo
+CUST_04616,Australia,john.doe@example.edu.au,Australian National University,John Doe,John Doe,Canberra Campus,Building 10,02,Canberra
+CUST_07476,Germany,contact@techsolvent.com,Tech Solvent GmbH,,John Müller,123 Innovation Street,Suite 5B,10115,Berlin
+CUST_08824,Brazil,jose.silva@example.com,,José Silva,,"Rua da Paz, 123",Apto 45,11,São Paulo
+CUST_01621,Germany,contact@smallbusinessgmbh.de,Small Business GmbH,,Anna Müller,Bergstraße 12,,10115,Berlin
+CUST_09050,Brazil,contact@techsolutions.com,Tech Solutions Ltda.,,Mariana Souza,"Av. Paulista, 1578",Suite 1003,11,São Paulo
+CUST_00815,Australia,james.smith@example.com,,James Smith,,123 Sydney Rd,,02,Sydney
+CUST_06164,Australia,contact@example.org,Helping Hands Australia,,Emily Johnson,123 Charity St,"Level 2, Suite 5",02,Sydney
+CUST_09806,Brazil,contact@nonprofit.org.br,Non-Profit Organization Brasil,,Maria Silva,"Rua da Esperança, 123",Centro,11,São Paulo
+CUST_01904,Brazil,tiago.souza@edu.brazil.br,Instituto de Educação do Brasil,Tiago Souza,Ana Ribeiro,"Rua das Flores, 123",Apartamento 45,11,São Paulo
+CUST_04792,Germany,john.doe@university.de,University of Berlin,John Doe,Dr. Sarah Smith,123 Academic St.,Building A,10115,Berlin
+CUST_00125,United Arab Emirates,ahmed.alshammari@email.com,,Ahmed Al Shammari,,123 Sheikh Zayed Road,"Office Tower, 5th Floor",04,Dubai
+CUST_04841,Brazil,example@education.com,EduTech Solutions,Maria Souza,Maria Souza,"Rua dos Estudantes, 123",Apt 45,11,São Paulo
+CUST_09244,Germany,contact@enterprise-company.com,Enterprise Company GmbH,,Hans Müller,Musterstraße 1,2. OG,10115,Berlin
+CUST_05435,Brazil,contact@nonprofitorg.br,Nonprofit Organization Brazil,,Mariana Silva,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_01978,Australia,contact@nonprofit.org.au,Non-Profit Organization,,Jane Doe,123 Charity Lane,Suite 456,02,Sydney
+CUST_00544,United States,contact@techsolutions.com,Tech Solutions LLC,,John Doe,123 Innovation Drive,Suite 400,90210,Beverly Hills
+CUST_05716,United States,contact@charityexample.org,Charity Example,,Jane Doe,123 Charity Lane,Suite 100,90210,Beverly Hills
+CUST_04862,Australia,contact@enterpriseinc.com.au,Enterprise Inc.,,John Doe,123 Innovation Drive,Suite 456,02,Sydney
+CUST_00939,United Arab Emirates,ahmed.mohammed@example.com,,Ahmed Mohammed,,123 Al Reem St,,02,Abu Dhabi
+CUST_06438,Brazil,jose.silva@educa.com.br,EducaTech Solutions,José Silva,Maria Oliveira,123 Avenida do Conhecimento,Suite 456,11,São Paulo
+CUST_03094,Germany,contact@nonprofitorg.eu,Helping Hands NGO,,Anna Schmidt,123 Charity Lane,Suite 10B,10115,Berlin
+CUST_02914,Australia,info@nonprofitorg.au,Australian Charity Org,,Sarah Johnson,123 Charity St,Suite 4B,02,Sydney
+CUST_04831,Germany,contact@samplebusiness.de,Sample Business GmbH,,Max Müller,Musterstraße 12,2nd Floor,10115,Berlin
+CUST_08772,Brazil,contact@schoolofexcellence.edu.br,School of Excellence,,Maria Silva,123 Education Ave,Building A,11,São Paulo
+CUST_05532,Brazil,contact@nonprofitorg.br,Nonprofit Organization BR,,Maria Silva,"Avenida Paulista, 1234",Suite 567,11,São Paulo
+CUST_07541,Brazil,contact@ngo-brazil.org,Brazilian Environmental Institute,,Maria Silva,123 Eco Street,Suite 100,11,São Paulo
+CUST_08977,United Arab Emirates,contact@nonprofitorg.ae,Nonprofit Organization,,Sarah Al-Farsi,123 Charity St.,Suite 456,04,Dubai
+CUST_00505,United Arab Emirates,contact@enterpriseexample.com,Enterprise Solutions LLC,,John Smith,123 Business Bay,Suite 456,971,Dubai
+CUST_01478,Germany,john.doe@university.com,University of Education,John Doe,Jane Smith,123 University Ave,Building B,10115,Berlin
+CUST_00057,United States,contact@nonprofitorg.org,Non-Profit Organization,,John Doe,123 Charity St.,Suite 100,202,Washington
+CUST_05652,United Arab Emirates,info@smallbusiness.ae,Small Business LLC,,Ali Ahmed,123 Business Bay,Suite 456,04,Dubai
+CUST_00172,Brazil,contact@enterprisecompany.com,Enterprise Company Ltd.,,Maria Silva,"Avenida Paulista, 1000",Suite 200,11,São Paulo
+CUST_08654,Australia,john.doe@educationaustralia.com,Education Australia,John Doe,Jane Smith,123 Education St,Suite 4B,02,Sydney
+CUST_00704,Australia,contact@techsolutions.com.au,Tech Solutions Pty Ltd,,John Smith,123 Innovation Road,Suite 45B,02,Sydney
+CUST_02461,Australia,john.smith@example.com,,John Smith,,123 Elm Street,,02,Sydney
+CUST_02656,United Arab Emirates,contact@nonprofitorg.ae,Non Profit Organization,,Ahmed Al-Farsi,123 Charity Rd,Suite 45,02,Abu Dhabi
+CUST_05397,Australia,jane.doe@example.com,,Jane Doe,,123 Maple Street,Apt 4B,02,Sydney
+CUST_00582,United Arab Emirates,info@enterprise-example.com,Enterprise Solutions Ltd.,,,123 Business Bay,Suite 456,04,Dubai
+CUST_01657,Brazil,contact@smallbusiness.com.br,Small Business Ltda,,Lucas Silva,123 Rua das Flores,,11,São Paulo
+CUST_05768,Germany,info@smallbusinessgmbh.de,Small Business GmbH,,Hans Müller,Hauptstraße 50,2. Etage,10115,Berlin
+CUST_05488,Germany,info@nonprofitorg.de,Non Profit Organization,,,123 Charity St.,2nd Floor,10115,Berlin
+CUST_05274,United States,jane.doe@education.org,Springfield High School,Jane Doe,John Smith,123 Elm St,Suite 101,123,Springfield
+CUST_08168,Brazil,juan.silva@example.com,,Juan Silva,,"Avenida Paulista, 1578",Apto 42,11,São Paulo
+CUST_09853,Germany,info@charityexample.org,Charity Example,,Anna Schmidt,Musterstraße 12,,10115,Berlin
+CUST_00093,Australia,contact@nonprofit.org.au,Helping Hands Non-Profit,,Alice Johnson,123 Hope Street,Suite 4B,02,Sydney
+CUST_08195,Australia,info@nonprofitorganization.org.au,Non Profit Organization,,John Doe,123 Charity Lane,Suite 4B,02,Sydney
+CUST_09250,Brazil,contact@enterprisecompany.com,Enterprise Company Ltda,,Maria Silva,"Av. Paulista, 1000",Suite 200,11,São Paulo
+CUST_01401,Germany,info@educationsolutions.de,Education Solutions GmbH,,Anna Müller,Brunnenstraße 12,2nd Floor,10115,Berlin
+CUST_03470,Brazil,contact@enterprisecompany.com,Enterprise Solutions Ltd.,,Maria Silva,"Avenida Paulista, 1578",Suite 2500,11,São Paulo
+CUST_06049,Australia,john.doe@example.com,,John Doe,,123 Example Street,Unit 1,02,Sydney
+CUST_06340,United States,contact@techinnovators.com,Tech Innovators LLC,,John Smith,345 Tech Avenue,Suite 200,90210,Beverly Hills
+CUST_08601,United States,info@nonprofitorg.org,Helping Hands Non-Profit,,Sarah Thompson,123 Charity Lane,Suite 200,303,Denver
+CUST_00667,Australia,contact@charityforchange.org.au,Charity for Change,,Emily Clarke,123 Helping Hands St,Suite 2A,02,Sydney
+CUST_07763,United States,john.doe@example.edu,Greenwood High School,John Doe,Jane Smith,123 Education Ave,Room 101,123,Springfield
+CUST_08915,Germany,info@educationsolutions.de,Education Solutions GmbH,,Hans Müller,Berliner Straße 45,,10115,Berlin
+CUST_00568,Germany,john.doe@university.edu,Berlin University,John Doe,Jane Smith,123 Academic Ave,Building B,10115,Berlin
+CUST_07486,United States,john.doe@example.com,Doe Education Institute,John Doe,Jane Smith,123 Education Ave,Suite 100,90210,Beverly Hills
+CUST_01488,United Arab Emirates,johndoe@educationuae.com,Education UAE,John Doe,Jane Smith,123 Knowledge Lane,Suite 456,971,Dubai
+CUST_02632,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Doe,1234 Innovation Drive,Suite 100,303,Denver
+CUST_01029,United Arab Emirates,contact@noprofit.org,Non-Profit Organization,,Fatima Al-Mansoori,123 Charity Lane,Suite 4B,04,Dubai
+CUST_01441,United Arab Emirates,contact@techsolutions.ae,Tech Solutions LLC,,Aisha Al Farsi,123 Innovation Drive,Suite 10B,04,Dubai
+CUST_08793,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Smith,123 Innovation Drive,Suite 400,90210,Beverly Hills
+CUST_09675,Australia,contact@techsolutions.com.au,Tech Solutions Pty Ltd,,Emma Johnson,45 Innovation Park,Suite 5B,02,Sydney
+CUST_09115,Australia,info@smallbiz.com.au,Small Biz Solutions,,John Doe,123 Business Rd,Suite 4B,02,Sydney
+CUST_03760,Brazil,maria.silva@education.org.br,Educação Ação,Maria Silva,,"Rua da Esperança, 25",Apto 402,11,São Paulo
+CUST_00831,Germany,info@smallbusiness.de,Kleinunternehmen GmbH,,Hans Müller,Berliner Str. 12,2. OG,10115,Berlin
+CUST_08091,Brazil,joaosilva@example.com,,João Silva,,"Avenida Paulista, 1578",Condomínio Edificio São Paulo,11,São Paulo
+CUST_02518,France,julie.dupont@example.com,,Julie Dupont,,12 Rue de Rivoli,Apt 34,75001,Paris
+CUST_03050,Brazil,contact@nonprofitbr.org,Non-Profit Brazil,,Ana Silva,"Av. Paulista, 1578",2nd Floor Suite 23,11,São Paulo
+CUST_09760,United States,john.doe@example.com,,John Doe,,123 Maple Street,,90210,Beverly Hills
+CUST_06841,Germany,info@smallbusinessgermany.com,Small Business Germany GmbH,,Hans Müller,Berliner Str. 45,Suite 2A,10115,Berlin
+CUST_07174,United Arab Emirates,contact@uaenonprofit.org,UAE Non-Profit Organization,,Aisha Al-Farsi,123 Charity Street,Suite 456,971,Dubai
+CUST_09396,Brazil,contact@nonprofitorganization.org,Non-Profit Organization,,Maria Silva,Rua dos Três Irmãos,Apt 301,11,São Paulo
+CUST_03665,United States,contact@techinnovation.com,Tech Innovation Corp,,John Doe,1234 Innovation Drive,Suite 500,303,Denver
+CUST_06148,Germany,info@german-nonprofit.org,German Nonprofit Organization,,Anna Müller,Musterstraße 1,2. Etage,10115,Berlin
+CUST_03792,Brazil,maria.silva@educationsystem.br,EduTech Solutions,Maria Silva,Maria Silva,"Rua da Educação, 45",Centro,11,São Paulo
+CUST_03415,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,Lucas Silva,"Avenida Paulista, 1234",Suite 567,11,São Paulo
+CUST_03292,Germany,contact@smallbusinessgmbh.de,Small Business GmbH,,Hans Müller,Musterstraße 12,2. Stock,10115,Berlin
+CUST_04108,Germany,john.doe@example.com,,John Doe,,123 Main Street,,10115,Berlin
+CUST_04178,Brazil,info@smallbusinessbrazil.com,Small Business Brazil Ltda,,Carlos Silva,"Rua das Flores, 123",Apto 45,11,São Paulo
+CUST_03008,Brazil,contact@smallbusiness.com,Small Business Solutions,,Lucas Silva,"Avenida Paulista, 1000",Suite 200,11,São Paulo
+CUST_01082,United States,contact@nonprofit-xyz.org,Nonprofit XYZ,,Jane Doe,123 Charity Lane,,555,Springfield
+CUST_04675,United Arab Emirates,info@nonprofitorg.ae,Non-Profit Organization UAE,,Sara Al-Farsi,123 Al Quoz Street,Suite 4B,04,Dubai
+CUST_09302,Australia,contact@bigenterprise.com.au,Big Enterprise Pty Ltd,,John Doe,123 Business Avenue,Suite 456,02,Sydney
+CUST_01492,Brazil,jose.silva@example.com,,Jose Silva,,123 Avenida Paulista,,11,São Paulo
+CUST_08993,Australia,contact@smallbusiness.com.au,Small Business Co.,,John Doe,123 Business St,Building 2,02,Sydney
+CUST_01386,United States,contact@smallbusiness.com,Small Business Inc.,,John Doe,456 Business Rd,Suite 200,555,Los Angeles
+CUST_09788,Brazil,juan.silva@example.com,,Juan Silva,,"Rua da Liberdade, 123",,11,São Paulo
+CUST_06805,United Arab Emirates,contact@nonprofitorganization.ae,Hope for Tomorrow,,Ahmed Al-Fahidi,123 Charity Lane,Suite 45B,02,Abu Dhabi
+CUST_04943,Germany,info@nonprofitorganization.de,NonProfit Organisation e.V.,,Anna Schmidt,Musterstraße 123,2. Etage,10115,Berlin
+CUST_08098,Germany,john.doe@example.com,,John Doe,,Musterstraße 123,,10115,Berlin
+CUST_06597,Australia,jane.doe@university.edu.au,Australian National University,Jane Doe,Dr. John Smith,100 Acton Rd,"Building 1, Room 205",02,Canberra
+CUST_01218,Australia,contact@smallbusiness.com.au,Small Business Solutions,,John Doe,123 Business St,Suite 5,02,Sydney
+CUST_08143,United States,contact@smallbusiness.com,Small Business Solutions Inc.,,John Doe,123 Business Rd.,Suite 100,90001,Los Angeles
+CUST_06102,Germany,contact@enterprisecompany.de,Enterprise Solutions GmbH,,Anna Müller,Marktplatz 5,,10115,Berlin
+CUST_00337,United Arab Emirates,info@nonprofitme.org,Non-Profit Middle East,,Fatima Al-Mansoori,123 Charity St,Suite 4B,971,Dubai
+CUST_01219,United States,john.doe@example.com,Springfield High School,John Doe,Jane Smith,123 Main St,,123,Springfield
+CUST_03445,Germany,julia.schmidt@example.com,Schmidt Educational Services,,Julia Schmidt,Musterstraße 5,2nd Floor,10115,Berlin
+CUST_05718,United States,info@nonprofitorganization.org,Nonprofit Organization Inc.,,Jane Doe,123 Charity Lane,Suite 456,123,Springfield
+CUST_00395,Brazil,maria.silva@university.edu.br,University of São Paulo,Maria Silva,Maria Silva,"Rua da Consolação, 1234",Apt 56,11,São Paulo
+CUST_01849,United States,johndoe@example.com,,John Doe,,123 Main Street,,90210,Beverly Hills
+CUST_01616,United States,john.doe@example.com,Green Valley High School,John Doe,Jane Smith,123 Education Lane,,555,Anytown
+CUST_01360,United Arab Emirates,ahmed.alhusseini@example.com,,Ahmed Al Husseini,,1234 Dubai Marina,,04,Dubai
+CUST_04730,Germany,contact@nonprofitgermany.org,Nonprofit Organization Germany,,Anna Müller,Hauptstraße 123,,10115,Berlin
+CUST_00887,Brazil,contact@enterpriseexample.com,Enterprise Solutions Ltd.,,Maria Silva,"Avenida Paulista, 1578",Suite 501,11,São Paulo
+CUST_01522,United Arab Emirates,contact@enterprisecompany.ae,Enterprise Solutions LLC,,Ahmed Al Mansoori,1234 Business Bay,Suite 567,04,Dubai
+CUST_09724,United Arab Emirates,info@meanonprofit.org,MEA Nonprofit Organization,,Sarah Al-Farsi,123 Charity Lane,,971,Dubai
+CUST_07112,Brazil,contact@brasiltech.com,Brasil Tech Solutions,,Lucas Oliveira,"Avenida Paulista, 1578",Suite 2001,11,São Paulo
+CUST_06460,Germany,contact@techinnovations.de,Tech Innovations GmbH,,Max Müller,Mainzer Straße 10,Suite 5B,55130,Mainz
+CUST_01563,Germany,contact@nonprofit-org.de,Helping Hands Foundation,,Anna Müller,123 Charity Street,Suite 10B,10115,Berlin
+CUST_02942,Australia,contact@smallbiz.com.au,SmallBiz Solutions,,Emily Johnson,123 Business Rd,Suite 4B,02,Sydney
+CUST_04380,United Arab Emirates,john.smith@example.com,,John Smith,,123 Desert Road,,04,Dubai
+CUST_07866,Australia,contact@nonprofit.org.au,Helping Hand Inc.,,Emily Johnson,123 Charity St,Suite 4B,02,Sydney
+CUST_04965,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Hans Müller,Musterstraße 12,2. Etage,10115,Berlin
+CUST_00107,Australia,jane.doe@university.edu.au,University of Sydney,Jane Doe,Dr. John Smith,123 University St,"Building A, Room 101",02,Sydney
+CUST_04290,Brazil,julia.silva@education.org.br,Educação Brasil,Julia Silva,,"Avenida Paulista, 1578",Suite 303,11,São Paulo
+CUST_05660,Brazil,contact@enterpriseexample.com,Enterprise Example Ltd.,,Maria Silva,"Avenida Paulista, 100",Suite 200,11,São Paulo
+CUST_05492,United Arab Emirates,contact@nonprofit.org,Helping Hands NGO,,Sarah Al-Mansoori,123 Charity Lane,Suite 456,04,Dubai
+CUST_02402,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Anna Müller,Musterstraße 12,2. Stock,10115,Berlin
+CUST_07898,Germany,info@nonprofit.org,Helping Hands Foundation,,Anna Müller,Berliner Straße 123,Second Floor,10115,Berlin
+CUST_07772,USA,john.doe@educationinstitute.org,Doe Education Institute,John Doe,John Doe,123 Elm Street,Suite 100,555,Springfield
+CUST_08984,Germany,contact@techsolutions.de,Tech Solutions GmbH,,Hans Müller,Musterstraße 10,3rd Floor,10115,Berlin
+CUST_02063,Germany,contact@nonprofitorg.de,NonProfit Organization,,Anna Schmidt,123 Charity Street,Suite 456,10115,Berlin
+CUST_04444,United Arab Emirates,info@educationsolutions.ae,Education Solutions LLC,,Sarah Al-Farsi,123 Knowledge Way,Suite 4B,042,Dubai
+CUST_07825,United Arab Emirates,contact@companyxyz.com,Company XYZ LLC,,John Doe,1234 Business Bay,Office 567,02,Abu Dhabi
+CUST_03056,United States,johndoe@example.com,Doe Educational Services,,John Doe,123 Learning St,Suite 100,123,Springfield
+CUST_05387,United Arab Emirates,contact@smallbusinessuae.com,Small Business UAE,,Ahmed Al Rahmani,123 Business Bay,Suite 456,04,Dubai
+CUST_01911,United Arab Emirates,contact@smallbusinessuae.com,Small Business UAE Ltd.,,Ahmed Al-Farsi,123 Business Bay,Suite 456,04,Dubai
+CUST_09024,United States,info@smallbizcorp.com,Small Biz Corp,,John Doe,123 Business St,Suite 100,555,Springfield
+CUST_09537,United Arab Emirates,ahmed.almeida@example.com,,Ahmed Almeida,,1234 Al Jazeera Street,,04,Dubai
+CUST_07245,United Arab Emirates,ahmed.saeed@educationsolutions.ae,Education Solutions LLC,Ahmed Saeed,Fatima Al Farsi,123 Knowledge Street,Suite 5A,02,Abu Dhabi
+CUST_03836,Australia,jane.doe@example.com,,Jane Doe,,123 Elm Street,Apt 4B,02,Sydney
+CUST_07333,Australia,jane.doe@university.edu.au,University of Sydney,Jane Doe,Michael Smith,Camperdown Campus,"Level 5, Main Quad",02,Sydney
+CUST_05354,Brazil,julia.silva@email.com,Escola Aprendendo,,Julia Silva,"Rua das Flores, 123",Centro,11,São Paulo
+CUST_00465,Germany,julia.smith@university.edu,University of Science,,Julia Smith,123 Science Rd,Suite 100,10115,Berlin
+CUST_06628,Brazil,contact@nonprofit.org.br,Nonprofit Organization ABC,,Maria Silva,"Avenida Paulista, 1234",Suite 567,11,São Paulo
+CUST_00558,Brazil,contact@nonprofit.org.br,Non-Profit Organization,,Maria Silva,"Rua das Flores, 123",Centro,21,Rio de Janeiro
+CUST_01486,Brazil,contact@smallbusiness.com.br,Pequena Empresa LTDA,,Luis Oliveira,"Rua do Comércio, 45",Centro,11,São Paulo
+CUST_08276,Brazil,john.doe@example.com,,John Doe,,123 Avenida São Paulo,,11,São Paulo
+CUST_05052,Australia,contact@smallbusiness.com.au,ABC Solutions,,John Smith,123 Business Rd,Suite 100,02,Sydney
+CUST_03984,Brazil,julia.silva@school.edu.br,Educação Avançada Ltda,Julia Silva,Julia Silva,"Av. das Américas, 500",Sala 203,21,Rio de Janeiro
+CUST_03832,United Arab Emirates,contact@smallbusinessuae.com,Small Business Solutions LLC,,Ahmed Al-Mansoori,123 Business Bay,Office 456,03,Dubai
+CUST_05839,United States,contact@techsolutions.com,Tech Solutions Inc.,,John Doe,123 Innovation Drive,Suite 400,303,Denver
+CUST_07337,United States,contact@smallbusiness.com,Small Business Inc.,,John Doe,123 Business St.,Suite 100,555,Springfield
+CUST_00062,,,,,,,,,
+nan,,,,,,,,,
